@@ -1,0 +1,1832 @@
+[
+  {
+    "verb": "etwas/nichts ändern an + D",
+    "translation": "изменить/не менять что-л. в чем-л.",
+    "example": "Ich möchte nichts am Plan ändern."
+  },
+  {
+    "verb": "arbeiten an + D",
+    "translation": "работать над чем-л.",
+    "example": "Sie arbeitet an ihrem neuen Projekt."
+  },
+  {
+    "verb": "jn./etw. erkennen an + D",
+    "translation": "узнать кого-л./что-л. по чему-л.",
+    "example": "Ich erkenne ihn an seiner Stimme."
+  },
+  {
+    "verb": "erkranken an + D",
+    "translation": "заболеть чем-л.",
+    "example": "Er ist an Grippe erkrankt."
+  },
+  {
+    "verb": "jm. fehlen an + D",
+    "translation": "кому-л. не хватать чего-л.",
+    "example": "Es fehlt ihr an Geduld."
+  },
+  {
+    "verb": "forschen an + D",
+    "translation": "исследовать что-л.",
+    "example": "Die Wissenschaftler forschen an einer neuen Technologie."
+  },
+  {
+    "verb": "gewinnen an + D",
+    "translation": "набирать, приобретать (что-л.: уверенность и т. д.)",
+    "example": "Er hat an Selbstbewusstsein gewonnen."
+  },
+  {
+    "verb": "jn. hindern an + D",
+    "translation": "мешать, препятствовать кому-л. в чем-л.",
+    "example": "Niemand hindert ihn am Weiterlernen."
+  },
+  {
+    "verb": "leiden an + D",
+    "translation": "страдать чем-л. (болезнью)",
+    "example": "Sie leidet an Migräne."
+  },
+  {
+    "verb": "liegen an + D",
+    "translation": "зависеть от чего-л.; быть причиной",
+    "example": "Der Erfolg liegt am Teamwork."
+  },
+  {
+    "verb": "mangeln an + D",
+    "translation": "недоставать, не хватать чего-л.",
+    "example": "Es mangelt uns an Zeit."
+  },
+  {
+    "verb": "mitwirken an + D",
+    "translation": "участвовать в чем-л., содействовать",
+    "example": "Er wirkt an einem Theaterstück mit."
+  },
+  {
+    "verb": "sich beteiligen an + D",
+    "translation": "участвовать в чем-л. (материально или активно)",
+    "example": "Sie beteiligt sich aktiv am Projekt."
+  },
+  {
+    "verb": "sich erfreuen an + D",
+    "translation": "радоваться чему-л.",
+    "example": "Ich erfreue mich an der schönen Aussicht."
+  },
+  {
+    "verb": "sich orientieren an + D",
+    "translation": "ориентироваться на кого-л./что-л.",
+    "example": "Wir orientieren uns am besten Beispiel."
+  },
+  {
+    "verb": "sich rächen an + D",
+    "translation": "мстить кому-л.",
+    "example": "Er rächt sich an seinem Gegner."
+  },
+  {
+    "verb": "schreiben an + D",
+    "translation": "писать что-л., работать над текстом",
+    "example": "Sie schreibt an einer neuen Geschichte."
+  },
+  {
+    "verb": "sterben an + D",
+    "translation": "умереть от чего-л.",
+    "example": "Er starb an einer schweren Krankheit."
+  },
+  {
+    "verb": "teilhaben an + D",
+    "translation": "принимать участие, быть причастным к чему-л.",
+    "example": "Wir teilen an der Freude der anderen."
+  },
+  {
+    "verb": "teilnehmen an + D",
+    "translation": "принимать участие в чем-л.",
+    "example": "Sie nimmt am Wettbewerb teil."
+  },
+  {
+    "verb": "zunehmen an + D",
+    "translation": "прибавить, увеличиться в чем-л.",
+    "example": "Das Unternehmen nimmt an Bedeutung zu."
+  },
+  {
+    "verb": "zweifeln an + D",
+    "translation": "сомневаться в чем-л.",
+    "example": "Ich zweifle an seiner Ehrlichkeit."
+  },
+  {
+    "verb": "sich/etw. anpassen an + A",
+    "translation": "приспособиться к чему-л.",
+    "example": "Er passt sich an die neuen Regeln an."
+  },
+  {
+    "verb": "appellieren an + A",
+    "translation": "взывать к кому-л.",
+    "example": "Sie appelliert an die Vernunft der Zuhörer."
+  },
+  {
+    "verb": "denken an + A",
+    "translation": "думать о ком-л./чем-л.",
+    "example": "Ich denke oft an meine Kindheit."
+  },
+  {
+    "verb": "sich/jdn. erinnern an + A",
+    "translation": "помнить / напоминать о чем-л.",
+    "example": "Dieses Lied erinnert mich an den Sommer."
+  },
+  {
+    "verb": "sich gewöhnen an + A",
+    "translation": "привыкать к чему-л.",
+    "example": "Er gewöhnt sich langsam an die Stadt."
+  },
+  {
+    "verb": "glauben an + A",
+    "translation": "верить во что-л.",
+    "example": "Glaubst du an Wunder?"
+  },
+  {
+    "verb": "sich halten an + A",
+    "translation": "придерживаться чего-л.",
+    "example": "Wir halten uns an die Vorschriften."
+  },
+  {
+    "verb": "liefern an + A",
+    "translation": "доставлять по адресу, поставлять",
+    "example": "Das Unternehmen liefert Waren an Kunden."
+  },
+  {
+    "verb": "sich machen an + A",
+    "translation": "приниматься за что-л.",
+    "example": "Er macht sich an die Arbeit."
+  },
+  {
+    "verb": "sich/etw. richten an + A",
+    "translation": "обращаться к кому-л. / быть направленным на",
+    "example": "Der Brief richtet sich an die Behörde."
+  },
+  {
+    "verb": "schicken an + A",
+    "translation": "отправлять кому-л.",
+    "example": "Ich schicke ein Paket an meine Schwester."
+  },
+  {
+    "verb": "senden an + A",
+    "translation": "посылать кому-л.",
+    "example": "Er sendet die Nachricht an alle Kollegen."
+  },
+  {
+    "verb": "schreiben an + A",
+    "translation": "писать кому-л.",
+    "example": "Sie schreibt einen Brief an ihren Freund."
+  },
+  {
+    "verb": "sich wenden an + A",
+    "translation": "обращаться к кому-л.",
+    "example": "Er wendet sich an den Support."
+  },
+  {
+    "verb": "basieren auf + D",
+    "translation": "основываться на",
+    "example": "Der Film basiert auf einer wahren Geschichte."
+  },
+  {
+    "verb": "beharren auf + D",
+    "translation": "настаивать на",
+    "example": "Er beharrt auf seiner Meinung."
+  },
+  {
+    "verb": "beruhen auf + D",
+    "translation": "основываться на",
+    "example": "Der Erfolg beruht auf harter Arbeit."
+  },
+  {
+    "verb": "bestehen auf + D",
+    "translation": "настаивать на",
+    "example": "Sie besteht auf einer Entschuldigung."
+  },
+  {
+    "verb": "ruhen auf + D",
+    "translation": "опираться, возлагаться на",
+    "example": "Die Entscheidung ruht auf den Schultern des Teams."
+  },
+  {
+    "verb": "achten auf + A",
+    "translation": "обращать внимание на",
+    "example": "Achte auf die Details!"
+  },
+  {
+    "verb": "ankommen auf (es) + A",
+    "translation": "зависеть от",
+    "example": "Es kommt auf die Qualität an."
+  },
+  {
+    "verb": "anspielen auf + A",
+    "translation": "намекать на",
+    "example": "Er spielt auf das Problem an."
+  },
+  {
+    "verb": "jm. antworten auf + A",
+    "translation": "отвечать на",
+    "example": "Ich antworte auf deine E-Mail."
+  },
+  {
+    "verb": "aufpassen auf + A",
+    "translation": "присматривать за",
+    "example": "Sie passt auf die Kinder auf."
+  },
+  {
+    "verb": "sich belaufen auf + A",
+    "translation": "составлять (о сумме)",
+    "example": "Die Kosten belaufen sich auf 500 Euro."
+  },
+  {
+    "verb": "sich berufen auf + A",
+    "translation": "ссылаться на",
+    "example": "Er beruft sich auf das Gesetz."
+  },
+  {
+    "verb": "sich beschränken auf + A",
+    "translation": "ограничиваться чем-либо",
+    "example": "Ich beschränke mich auf das Wesentliche."
+  },
+  {
+    "verb": "sich besinnen auf + A",
+    "translation": "вспоминать о, осознавать",
+    "example": "Sie besinnt sich auf ihre Werte."
+  },
+  {
+    "verb": "sich beziehen auf + A",
+    "translation": "ссылаться на",
+    "example": "Der Artikel bezieht sich auf aktuelle Ereignisse."
+  },
+  {
+    "verb": "jn. bringen auf + A",
+    "translation": "наводить на (мысль, идею)",
+    "example": "Das Gespräch bringt mich auf eine Idee."
+  },
+  {
+    "verb": "drängen auf + A",
+    "translation": "настаивать на",
+    "example": "Er drängt auf eine schnelle Entscheidung."
+  },
+  {
+    "verb": "eingehen auf + A",
+    "translation": "откликнуться на, остановиться на",
+    "example": "Ich gehe auf deine Frage ein."
+  },
+  {
+    "verb": "sich einigen auf + A",
+    "translation": "договориться о",
+    "example": "Wir einigen uns auf einen Termin."
+  },
+  {
+    "verb": "einladen auf + A",
+    "translation": "приглашать на (напиток, мероприятие)",
+    "example": "Er lädt mich auf ein Getränk ein."
+  },
+  {
+    "verb": "sich einlassen auf + A",
+    "translation": "связываться с, ввязываться",
+    "example": "Sie lässt sich auf das Abenteuer ein."
+  },
+  {
+    "verb": "sich einstellen auf + A",
+    "translation": "настраиваться на, приспосабливаться к",
+    "example": "Ich stelle mich auf Veränderungen ein."
+  },
+  {
+    "verb": "(sich) erhöhen auf + A",
+    "translation": "увеличиваться до",
+    "example": "Die Preise erhöhen sich auf 20 Euro."
+  },
+  {
+    "verb": "sich freuen auf + A",
+    "translation": "радоваться (тому, что будет)",
+    "example": "Ich freue mich auf die Ferien."
+  },
+  {
+    "verb": "hinweisen auf + A",
+    "translation": "указывать на",
+    "example": "Er weist auf den Fehler hin."
+  },
+  {
+    "verb": "hoffen auf + A",
+    "translation": "надеяться на",
+    "example": "Wir hoffen auf besseres Wetter."
+  },
+  {
+    "verb": "hören auf + A",
+    "translation": "слушаться кого-либо",
+    "example": "Die Kinder hören auf ihre Eltern."
+  },
+  {
+    "verb": "kommen auf + A",
+    "translation": "прийти к (мысли, идее)",
+    "example": "Ich komme auf einen neuen Vorschlag."
+  },
+  {
+    "verb": "sich konzentrieren auf + A",
+    "translation": "концентрироваться на",
+    "example": "Konzentriere dich auf die Aufgabe!"
+  },
+  {
+    "verb": "reagieren auf + A",
+    "translation": "реагировать на",
+    "example": "Er reagiert auf die Kritik."
+  },
+  {
+    "verb": "sich/etw. richten auf + A",
+    "translation": "направляться/направлять что-либо на",
+    "example": "Der Plan richtet sich auf langfristige Ziele."
+  },
+  {
+    "verb": "schießen auf + A",
+    "translation": "стрелять в",
+    "example": "Er schießt auf das Ziel."
+  },
+  {
+    "verb": "schimpfen auf + A",
+    "translation": "ругаться на",
+    "example": "Sie schimpft auf die Regierung."
+  },
+  {
+    "verb": "schwören auf + A",
+    "translation": "клясться в, ручаться за",
+    "example": "Er schwört auf diese Marke."
+  },
+  {
+    "verb": "sinken auf + A",
+    "translation": "опускаться до, снижаться до",
+    "example": "Die Temperatur sinkt auf null Grad."
+  },
+  {
+    "verb": "sich spezialisieren auf + A",
+    "translation": "специализироваться на",
+    "example": "Sie spezialisiert sich auf Umweltrecht."
+  },
+  {
+    "verb": "stehen auf + A",
+    "translation": "«тащиться» от кого-либо, быть влюблённым в",
+    "example": "Er steht auf schnelle Autos."
+  },
+  {
+    "verb": "steigen auf + A",
+    "translation": "подниматься до",
+    "example": "Die Preise steigen auf ein Rekordniveau."
+  },
+  {
+    "verb": "sich verlassen auf + A",
+    "translation": "полагаться на",
+    "example": "Ich verlasse mich auf dich."
+  },
+  {
+    "verb": "verschieben auf + A",
+    "translation": "переносить на",
+    "example": "Das Treffen wird auf morgen verschoben."
+  },
+  {
+    "verb": "vertrauen auf + A",
+    "translation": "доверять, полагаться на",
+    "example": "Vertraue auf deine Intuition!"
+  },
+  {
+    "verb": "verzichten auf + A",
+    "translation": "отказываться от",
+    "example": "Er verzichtet auf Alkohol."
+  },
+  {
+    "verb": "sich/jn. vorbereiten auf + A",
+    "translation": "готовиться/готовить кого-то к",
+    "example": "Wir bereiten uns auf den Test vor."
+  },
+  {
+    "verb": "warten auf + A",
+    "translation": "ждать кого-либо/чего-либо",
+    "example": "Ich warte auf den Bus."
+  },
+  {
+    "verb": "wirken auf + A",
+    "translation": "действовать, оказывать эффект на",
+    "example": "Die Musik wirkt auf meine Stimmung."
+  },
+  {
+    "verb": "zählen auf + A",
+    "translation": "рассчитывать на",
+    "example": "Ich zähle auf deine Hilfe."
+  },
+  {
+    "verb": "zugehen auf + A",
+    "translation": "подходить к, идти навстречу",
+    "example": "Er geht auf die Gäste zu."
+  },
+  {
+    "verb": "zurückkommen auf + A",
+    "translation": "возвращаться к (теме, вопросу)",
+    "example": "Lass uns auf das Thema zurückkommen."
+  },
+  {
+    "verb": "bestehen aus + D",
+    "translation": "состоять из",
+    "example": "Das Team besteht aus fünf Mitgliedern."
+  },
+  {
+    "verb": "sich ergeben aus + D",
+    "translation": "вытекать, получаться из",
+    "example": "Der Fehler ergibt sich aus Nachlässigkeit."
+  },
+  {
+    "verb": "ersehen aus + D",
+    "translation": "усматривать, делать вывод из",
+    "example": "Das kann man aus dem Bericht ersehen."
+  },
+  {
+    "verb": "folgern aus + D",
+    "translation": "делать вывод из",
+    "example": "Ich folgere aus den Daten, dass wir gewinnen."
+  },
+  {
+    "verb": "machen aus + D",
+    "translation": "делать из чего-либо",
+    "example": "Was machst du aus diesem Stoff?"
+  },
+  {
+    "verb": "resultieren aus + D",
+    "translation": "проистекать из",
+    "example": "Der Erfolg resultiert aus harter Arbeit."
+  },
+  {
+    "verb": "schließen aus + D",
+    "translation": "заключать из, делать вывод из",
+    "example": "Ich schließe aus deinen Worten, dass du zustimmst."
+  },
+  {
+    "verb": "übersetzen aus + D",
+    "translation": "переводить с (языка)",
+    "example": "Er übersetzt den Text aus dem Englischen."
+  },
+  {
+    "verb": "arbeiten bei + D",
+    "translation": "работать в (на фирме, предприятии)",
+    "example": "Sie arbeitet bei einer großen Firma."
+  },
+  {
+    "verb": "sich bedanken bei + D",
+    "translation": "благодарить кого-либо",
+    "example": "Ich bedanke mich bei dir für die Hilfe."
+  },
+  {
+    "verb": "sich beklagen bei + D",
+    "translation": "жаловаться кому-либо",
+    "example": "Er beklagt sich bei seinem Chef."
+  },
+  {
+    "verb": "sich beschweren bei + D",
+    "translation": "жаловаться кому-либо",
+    "example": "Sie beschwert sich bei der Verwaltung."
+  },
+  {
+    "verb": "sich erkundigen bei + D",
+    "translation": "осведомляться у кого-либо",
+    "example": "Er erkundigt sich bei der Information."
+  },
+  {
+    "verb": "helfen bei + D",
+    "translation": "помогать в чем-либо",
+    "example": "Ich helfe dir bei den Hausaufgaben."
+  },
+  {
+    "verb": "sich informieren bei + D",
+    "translation": "узнавать у кого-либо",
+    "example": "Informiere dich bei einem Experten."
+  },
+  {
+    "verb": "mitmachen bei + D",
+    "translation": "участвовать в",
+    "example": "Ich mache bei dem Wettbewerb mit."
+  },
+  {
+    "verb": "mitwirken bei + D",
+    "translation": "содействовать в, участвовать в",
+    "example": "Er wirkt bei dem Projekt mit."
+  },
+  {
+    "verb": "(jdn.) stören bei + D",
+    "translation": "мешать в чем-либо",
+    "example": "Ich störe ihn bei der Arbeit."
+  },
+  {
+    "verb": "(jdn.) unterstützen bei + D",
+    "translation": "поддерживать в чем-либо",
+    "example": "Wir unterstützen sie bei ihrem Vorhaben."
+  },
+  {
+    "verb": "zögern bei + D",
+    "translation": "колебаться при чем-либо",
+    "example": "Er zögert bei der Entscheidung."
+  },
+  {
+    "verb": "(jdm.) zugucken bei + D",
+    "translation": "наблюдать за кем-либо",
+    "example": "Ich gucke ihm bei der Arbeit zu."
+  },
+  {
+    "verb": "(jdm.) zuschauen bei + D",
+    "translation": "смотреть на кого-либо",
+    "example": "Wir schauen den Kindern beim Spielen zu."
+  },
+  {
+    "verb": "(jdm.) zusehen bei + D",
+    "translation": "наблюдать за кем-либо",
+    "example": "Ich sehe ihr beim Tanzen zu."
+  },
+  {
+    "verb": "arbeiten für + A",
+    "translation": "работать на кого-л., на что-л.",
+    "example": "Er arbeitet für eine Wohltätigkeitsorganisation."
+  },
+  {
+    "verb": "ausgeben für + A",
+    "translation": "тратить на что-л.",
+    "example": "Sie gibt viel Geld für Kleidung aus."
+  },
+  {
+    "verb": "sich bedanken für + A",
+    "translation": "благодарить за что-л.",
+    "example": "Ich bedanke mich für deine Unterstützung."
+  },
+  {
+    "verb": "sich begeistern für + A",
+    "translation": "увлекаться чем-л.",
+    "example": "Er begeistert sich für Fußball."
+  },
+  {
+    "verb": "danken für + A",
+    "translation": "благодарить за что-л.",
+    "example": "Danke für das Geschenk!"
+  },
+  {
+    "verb": "demonstrieren für + A",
+    "translation": "митинговать за что-л.",
+    "example": "Sie demonstrieren für mehr Gerechtigkeit."
+  },
+  {
+    "verb": "sich eignen für + A",
+    "translation": "подходить для чего-л.",
+    "example": "Dieses Werkzeug eignet sich für die Reparatur."
+  },
+  {
+    "verb": "sich einsetzen für + A",
+    "translation": "выступать за кого-л., за что-л.",
+    "example": "Er setzt sich für den Umweltschutz ein."
+  },
+  {
+    "verb": "eintreten für + A",
+    "translation": "бороться за кого-л., за что-л.",
+    "example": "Wir treten für gleiche Rechte ein."
+  },
+  {
+    "verb": "sich engagieren für + A",
+    "translation": "активно участвовать в чем-л.",
+    "example": "Sie engagiert sich für soziale Projekte."
+  },
+  {
+    "verb": "entschädigen für + A",
+    "translation": "возмещать за что-л.",
+    "example": "Er entschädigt mich für den Verlust."
+  },
+  {
+    "verb": "sich entscheiden für + A",
+    "translation": "решиться на что-л., выбрать что-л.",
+    "example": "Ich entscheide mich für den blauen Pullover."
+  },
+  {
+    "verb": "sich entschuldigen für + A",
+    "translation": "извиняться за что-л.",
+    "example": "Sie entschuldigt sich für die Verspätung."
+  },
+  {
+    "verb": "geradestehen für + A",
+    "translation": "нести ответственность за что-л.",
+    "example": "Er geradesteht für seine Fehler."
+  },
+  {
+    "verb": "halten für + A",
+    "translation": "считать кем-л., чем-л.",
+    "example": "Ich halte ihn für einen Experten."
+  },
+  {
+    "verb": "sich interessieren für + A",
+    "translation": "интересоваться чем-л.",
+    "example": "Sie interessiert sich für Kunst."
+  },
+  {
+    "verb": "kämpfen для + A",
+    "translation": "бороться за кого-л., за что-л.",
+    "example": "Wir kämpfen für unsere Freiheit."
+  },
+  {
+    "verb": "sich rächen für + A",
+    "translation": "мстить за что-л.",
+    "example": "Er rächt sich für die Beleidigung."
+  },
+  {
+    "verb": "sich schämen für + A",
+    "translation": "стыдиться чего-л.",
+    "example": "Sie schämt sich für ihr Verhalten."
+  },
+  {
+    "verb": "sein für + A",
+    "translation": "быть за что-л.",
+    "example": "Ich bin für die neue Regelung."
+  },
+  {
+    "verb": "sorgen für + A",
+    "translation": "заботиться о ком-л., о чём-л.",
+    "example": "Er sorgt für seine Familie."
+  },
+  {
+    "verb": "sprechen für + A",
+    "translation": "говорить в пользу чего-л.",
+    "example": "Seine Argumente sprechen für den Vorschlag."
+  },
+  {
+    "verb": "stehen для + A",
+    "translation": "означать, символизировать что-л.",
+    "example": "Das Symbol steht für Frieden."
+  },
+  {
+    "verb": "stimmen для + A",
+    "translation": "голосовать за кого-л., за что-л.",
+    "example": "Ich stimme für den Kandidaten."
+  },
+  {
+    "verb": "verurteilen für + A",
+    "translation": "осуждать за что-л.",
+    "example": "Er verurteilt ihn für die Tat."
+  },
+  {
+    "verb": "verwenden für + A",
+    "translation": "использовать для чего-л.",
+    "example": "Dieses Holz verwenden wir für den Bau."
+  },
+  {
+    "verb": "sich verwenden für + A",
+    "translation": "заступаться за кого-л., что-л.",
+    "example": "Sie verwendet sich für die Schwachen."
+  },
+  {
+    "verb": "werben für + A",
+    "translation": "агитировать за что-л.",
+    "example": "Er wirbt für das neue Produkt."
+  },
+  {
+    "verb": "antreten gegen + A",
+    "translation": "выступать против кого-л.",
+    "example": "Sie treten gegen die gegnerische Mannschaft an."
+  },
+  {
+    "verb": "demonstrieren gegen + A",
+    "translation": "демонстрировать против чего-л.",
+    "example": "Sie demonstrieren gegen die Reform."
+  },
+  {
+    "verb": "(sich) entscheiden gegen + A",
+    "translation": "решиться против чего-л.",
+    "example": "Er entscheidet sich gegen den Vorschlag."
+  },
+  {
+    "verb": "gewinnen gegen + A",
+    "translation": "победить кого-л.",
+    "example": "Wir gewinnen gegen das andere Team."
+  },
+  {
+    "verb": "handeln gegen + A",
+    "translation": "действовать против чего-л.",
+    "example": "Er handelt gegen die Regeln."
+  },
+  {
+    "verb": "kämpfen gegen + A",
+    "translation": "бороться против кого-л./чего-л.",
+    "example": "Sie kämpfen gegen Ungerechtigkeit."
+  },
+  {
+    "verb": "protestieren gegen + A",
+    "translation": "протестовать против чего-л.",
+    "example": "Wir protestieren gegen die Entscheidung."
+  },
+  {
+    "verb": "sein gegen + A",
+    "translation": "быть против чего-л.",
+    "example": "Ich bin gegen diese Maßnahme."
+  },
+  {
+    "verb": "siegen gegen + A",
+    "translation": "одержать победу над кем-л.",
+    "example": "Er siegt gegen seinen Rivalen."
+  },
+  {
+    "verb": "sprechen gegen + A",
+    "translation": "говорить против чего-л.",
+    "example": "Sie sprechen gegen das Projekt."
+  },
+  {
+    "verb": "stimmen gegen + A",
+    "translation": "голосовать против чего-л.",
+    "example": "Ich stimme gegen den Antrag."
+  },
+  {
+    "verb": "stoßen gegen + A",
+    "translation": "врезаться во что-л.",
+    "example": "Er stößt gegen den Tisch."
+  },
+  {
+    "verb": "sich sträuben gegen + A",
+    "translation": "сопротивляться чему-л.",
+    "example": "Sie sträubt sich gegen die Änderung."
+  },
+  {
+    "verb": "treten gegen + A",
+    "translation": "ударить ногой по чему-л.",
+    "example": "Er tritt gegen den Ball."
+  },
+  {
+    "verb": "verstoßen gegen + A",
+    "translation": "нарушать что-л.",
+    "example": "Er verstößt gegen das Gesetz."
+  },
+  {
+    "verb": "sich verteidigen gegen + A",
+    "translation": "защищаться от чего-л.",
+    "example": "Sie verteidigt sich gegen die Anschuldigungen."
+  },
+  {
+    "verb": "sich wehren gegen + A",
+    "translation": "обороняться от чего-л.",
+    "example": "Er wehrt sich gegen die Kritik."
+  },
+  {
+    "verb": "bestehen in + A",
+    "translation": "заключаться в чем-л.",
+    "example": "Der Erfolg besteht in harter Arbeit."
+  },
+  {
+    "verb": "sich irren in + A",
+    "translation": "ошибаться в чем-л.",
+    "example": "Ich irre mich in der Einschätzung."
+  },
+  {
+    "verb": "sich täuschen in + A",
+    "translation": "заблуждаться насчёт кого-л./чего-л.",
+    "example": "Er täuscht sich in seiner Annahme."
+  },
+  {
+    "verb": "sich üben in + A",
+    "translation": "упражняться в чем-л.",
+    "example": "Sie übt sich in Geduld."
+  },
+  {
+    "verb": "jn. unterrichten in + A",
+    "translation": "обучать кого-л. чему-л.",
+    "example": "Er unterrichtet die Schüler in Mathematik."
+  },
+  {
+    "verb": "jn. übertreffen in + A",
+    "translation": "превосходить кого-л. в чем-л.",
+    "example": "Sie übertrifft ihn in Geschwindigkeit."
+  },
+  {
+    "verb": "ausbrechen in + A",
+    "translation": "разразиться чем-л. (смехом, плачем и т.д.)",
+    "example": "Er bricht in Gelächter aus."
+  },
+  {
+    "verb": "einwilligen in + A",
+    "translation": "дать согласие на что-л.",
+    "example": "Sie willigt in den Vertrag ein."
+  },
+  {
+    "verb": "sich fügen in + A",
+    "translation": "покориться, смириться с чем-л.",
+    "example": "Er fügt sich in sein Schicksal."
+  },
+  {
+    "verb": "geraten in + A",
+    "translation": "попасть во что-л.",
+    "example": "Sie gerät in Schwierigkeiten."
+  },
+  {
+    "verb": "investieren in + A",
+    "translation": "инвестировать во что-л.",
+    "example": "Er investiert in neue Technologien."
+  },
+  {
+    "verb": "teilen in + A",
+    "translation": "делить на что-л.",
+    "example": "Wir teilen den Kuchen in Stücke."
+  },
+  {
+    "verb": "übersetzen in + A",
+    "translation": "переводить на что-л.",
+    "example": "Er übersetzt den Text in Deutsch."
+  },
+  {
+    "verb": "umwandeln in + A",
+    "translation": "превращать во что-л.",
+    "example": "Sie wandeln den Raum in ein Büro um."
+  },
+  {
+    "verb": "sich verlieben in + A",
+    "translation": "влюбиться в кого-л./что-л.",
+    "example": "Er verliebt sich in seine Kollegin."
+  },
+  {
+    "verb": "sich vertiefen in + A",
+    "translation": "углубиться во что-л., погрузиться во что-л.",
+    "example": "Sie vertieft sich in ein Buch."
+  },
+  {
+    "verb": "jn./etw./sich verwandeln in + A",
+    "translation": "превращать(ся) во что-л.",
+    "example": "Er verwandelt sich in einen Helden."
+  },
+  {
+    "verb": "anfangen mit + D",
+    "translation": "начинать с чем-л.",
+    "example": "Ich fange mit der ersten Aufgabe an."
+  },
+  {
+    "verb": "aufhören mit + D",
+    "translation": "прекращать что-л.",
+    "example": "Er hört mit dem Rauchen auf."
+  },
+  {
+    "verb": "sich austauschen mit + D",
+    "translation": "обмениваться мнениями с кем-л.",
+    "example": "Wir tauschen uns mit Kollegen aus."
+  },
+  {
+    "verb": "jn. beauftragen mit + D",
+    "translation": "поручать кому-л. что-л.",
+    "example": "Er beauftragt ihn mit der Aufgabe."
+  },
+  {
+    "verb": "sich befassen mit + D",
+    "translation": "заниматься чем-л.",
+    "example": "Sie befasst sich mit Umweltfragen."
+  },
+  {
+    "verb": "beginnen mit + D",
+    "translation": "начинать с чем-л.",
+    "example": "Wir beginnen mit einer Einführung."
+  },
+  {
+    "verb": "sich begnügen mit + D",
+    "translation": "довольствоваться чем-л.",
+    "example": "Er begnügt sich mit dem Nötigsten."
+  },
+  {
+    "verb": "sich beschäftigen mit + D",
+    "translation": "заниматься чем-л.",
+    "example": "Sie beschäftigt sich mit Musik."
+  },
+  {
+    "verb": "diskutieren mit + D",
+    "translation": "обсуждать с кем-л.",
+    "example": "Ich diskutiere mit meinem Chef."
+  },
+  {
+    "verb": "sich einigen mit + D",
+    "translation": "договориться с кем-л.",
+    "example": "Wir einigen uns mit dem Partner."
+  },
+  {
+    "verb": "enden mit + D",
+    "translation": "закончиться чем-л.",
+    "example": "Das Treffen endet mit einer Diskussion."
+  },
+  {
+    "verb": "experimentieren mit + D",
+    "translation": "экспериментировать с чем-л.",
+    "example": "Er experimentiert mit neuen Ideen."
+  },
+  {
+    "verb": "handeln mit + D",
+    "translation": "торговать чем-л.",
+    "example": "Sie handeln mit Kunstwerken."
+  },
+  {
+    "verb": "kämpfen mit + D",
+    "translation": "бороться с чем-л.",
+    "example": "Er kämpft mit seinen Ängsten."
+  },
+  {
+    "verb": "multiplizieren mit + D",
+    "translation": "умножать на",
+    "example": "Multipliziere die Zahl mit zwei."
+  },
+  {
+    "verb": "rechnen mit + D",
+    "translation": "рассчитывать на что-л.",
+    "example": "Ich rechne mit deiner Unterstützung."
+  },
+  {
+    "verb": "reden mit + D",
+    "translation": "говорить с кем-л.",
+    "example": "Er redet mit seinem Freund."
+  },
+  {
+    "verb": "schimpfen mit + D",
+    "translation": "ругать кого-л.",
+    "example": "Sie schimpft mit den Kindern."
+  },
+  {
+    "verb": "sich schlagen mit + D",
+    "translation": "драться с кем-л.",
+    "example": "Er schlägt sich mit seinem Bruder."
+  },
+  {
+    "verb": "spielen mit + D",
+    "translation": "играть с кем-л.",
+    "example": "Die Kinder spielen mit dem Hund."
+  },
+  {
+    "verb": "sprechen mit + D",
+    "translation": "говорить с кем-л.",
+    "example": "Ich spreche mit meinem Lehrer."
+  },
+  {
+    "verb": "streiten mit + D",
+    "translation": "ссориться с кем-л.",
+    "example": "Sie streitet mit ihrer Schwester."
+  },
+  {
+    "verb": "sich treffen mit + D",
+    "translation": "встречаться с кем-л.",
+    "example": "Er trifft sich mit seinen Kollegen."
+  },
+  {
+    "verb": "zu tun haben mit + D",
+    "translation": "иметь дело с чем-л./кем-л.",
+    "example": "Ich habe mit ihm nichts zu tun."
+  },
+  {
+    "verb": "umgehen mit + D",
+    "translation": "обращаться с чем-л./кем-л.",
+    "example": "Er geht vorsichtig mit dem Glas um."
+  },
+  {
+    "verb": "sich unterhalten mit + D",
+    "translation": "беседовать с кем-л.",
+    "example": "Wir unterhalten uns mit den Gästen."
+  },
+  {
+    "verb": "sich verabreden mit + D",
+    "translation": "договориться о встрече с кем-л.",
+    "example": "Ich verabrede mich mit meinem Freund."
+  },
+  {
+    "verb": "vereinbaren mit + D",
+    "translation": "договориться с кем-л.",
+    "example": "Wir vereinbaren einen Termin mit ihnen."
+  },
+  {
+    "verb": "jn. verheiraten mit + D",
+    "translation": "выдать замуж/женить на ком-л.",
+    "example": "Er verheiratet sie mit einem reichen Mann."
+  },
+  {
+    "verb": "sich verstehen mit + D",
+    "translation": "ладить с кем-л.",
+    "example": "Sie versteht sich gut mit ihren Kollegen."
+  },
+  {
+    "verb": "sich vertragen mit + D",
+    "translation": "помириться с кем-л.",
+    "example": "Er verträgt sich mit seinem Nachbarn."
+  },
+  {
+    "verb": "jn./etw. verwechseln mit + D",
+    "translation": "перепутать с кем-л./чем-л.",
+    "example": "Er verwechselt mich mit meinem Bruder."
+  },
+  {
+    "verb": "zögern mit + D",
+    "translation": "медлить с чем-л.",
+    "example": "Sie zögert mit der Antwort."
+  },
+  {
+    "verb": "zusammenstoßen mit + D",
+    "translation": "столкнуться с кем-л./чем-л.",
+    "example": "Er stößt mit dem Auto zusammen."
+  },
+  {
+    "verb": "beurteilen nach + D",
+    "translation": "судить по чему-л.",
+    "example": "Ich beurteile ihn nach seinem Verhalten."
+  },
+  {
+    "verb": "duften nach + D",
+    "translation": "пахнуть чем-л.",
+    "example": "Die Blumen duften nach Frühling."
+  },
+  {
+    "verb": "sich erkundigen nach + D",
+    "translation": "осведомляться о чем-л.",
+    "example": "Er erkundigt sich nach dem Weg."
+  },
+  {
+    "verb": "fahnden nach + D",
+    "translation": "разыскивать кого-л./что-л.",
+    "example": "Die Polizei fahndet nach dem Täter."
+  },
+  {
+    "verb": "forschen nach + D",
+    "translation": "исследовать что-л.",
+    "example": "Sie forschen nach neuen Heilmethoden."
+  },
+  {
+    "verb": "jn. fragen nach + D",
+    "translation": "спрашивать о чем-л.",
+    "example": "Ich frage nach den Details."
+  },
+  {
+    "verb": "greifen nach + D",
+    "translation": "тянуться за чем-л./стремиться к чему-л.",
+    "example": "Er greift nach dem Buch."
+  },
+  {
+    "verb": "sich richten nach + D",
+    "translation": "ориентироваться на что-л.",
+    "example": "Wir richten uns nach dem Plan."
+  },
+  {
+    "verb": "riechen nach + D",
+    "translation": "пахнуть чем-л.",
+    "example": "Es riecht nach frischem Kaffee."
+  },
+  {
+    "verb": "rufen nach + D",
+    "translation": "звать кого-л.",
+    "example": "Sie ruft nach Hilfe."
+  },
+  {
+    "verb": "schmecken nach + D",
+    "translation": "иметь вкус чего-л.",
+    "example": "Der Kuchen schmeckt nach Schokolade."
+  },
+  {
+    "verb": "sich sehnen nach + D",
+    "translation": "тосковать по кому-л./чему-л.",
+    "example": "Er sehnt sich nach seiner Heimat."
+  },
+  {
+    "verb": "stinken nach + D",
+    "translation": "вонять чем-л.",
+    "example": "Der Müll stinkt nach faulen Eiern."
+  },
+  {
+    "verb": "streben nach + D",
+    "translation": "стремиться к чему-л.",
+    "example": "Sie strebt nach Erfolg."
+  },
+  {
+    "verb": "suchen nach + D",
+    "translation": "искать кого-л./что-л.",
+    "example": "Ich suche nach meinem Schlüssel."
+  },
+  {
+    "verb": "tasten nach + D",
+    "translation": "нащупывать что-л.",
+    "example": "Er tastet nach seinem Handy."
+  },
+  {
+    "verb": "sich unterscheiden nach + D",
+    "translation": "различаться по чему-л.",
+    "example": "Die Modelle unterscheiden sich nach Größe."
+  },
+  {
+    "verb": "urteilen nach + D",
+    "translation": "судить по чему-л.",
+    "example": "Wir urteilen nach den Fakten."
+  },
+  {
+    "verb": "verlangen nach + D",
+    "translation": "требовать чего-л./искать встречи с кем-л.",
+    "example": "Er verlangt nach mehr Informationen."
+  },
+  {
+    "verb": "sich ärgern über + A",
+    "translation": "злиться на / из-за чего-л.",
+    "example": "Sie ärgert sich über die Verspätung."
+  },
+  {
+    "verb": "sich aufregen über + A",
+    "translation": "волноваться из-за чего-л.",
+    "example": "Er regt sich über das Chaos auf."
+  },
+  {
+    "verb": "sich austauschen über + A",
+    "translation": "обмениваться мнениями о чём-л.",
+    "example": "Wir tauschen uns über das Projekt aus."
+  },
+  {
+    "verb": "sich beklagen über + A",
+    "translation": "жаловаться на что-л.",
+    "example": "Sie beklagt sich über das Wetter."
+  },
+  {
+    "verb": "berichten über + A",
+    "translation": "сообщать о чём-л.",
+    "example": "Er berichtet über die Nachrichten."
+  },
+  {
+    "verb": "Bescheid wissen über + A",
+    "translation": "быть в курсе чего-л.",
+    "example": "Ich weiß Bescheid über die Regeln."
+  },
+  {
+    "verb": "sich beschweren über + A",
+    "translation": "жаловаться на что-л.",
+    "example": "Sie beschwert sich über den Service."
+  },
+  {
+    "verb": "diskutieren über + A",
+    "translation": "дискутировать о чём-л.",
+    "example": "Wir diskutieren über die Politik."
+  },
+  {
+    "verb": "sich entrüsten über + A",
+    "translation": "возмущаться чем-л.",
+    "example": "Er entrüstet sich über die Ungerechtigkeit."
+  },
+  {
+    "verb": "sich erregen über + A",
+    "translation": "возбуждаться из-за чего-л.",
+    "example": "Sie erregt sich über die Kritik."
+  },
+  {
+    "verb": "sich erschrecken über + A",
+    "translation": "испугаться чего-л.",
+    "example": "Ich erschrecke über den lauten Knall."
+  },
+  {
+    "verb": "sich freuen über + A",
+    "translation": "радоваться чему-л. (прошедшему)",
+    "example": "Wir freuen uns über den Erfolg."
+  },
+  {
+    "verb": "herrschen über + A",
+    "translation": "господствовать над чем-л.",
+    "example": "Er herrscht über das Land."
+  },
+  {
+    "verb": "sich/jn. informieren über + A",
+    "translation": "узнавать / информировать о чём-л.",
+    "example": "Ich informiere mich über das Thema."
+  },
+  {
+    "verb": "jammern über + A",
+    "translation": "ныть / жаловаться на что-л.",
+    "example": "Sie jammert über ihre Probleme."
+  },
+  {
+    "verb": "jubeln über + A",
+    "translation": "ликовать по поводу чего-л.",
+    "example": "Die Fans jubeln über den Sieg."
+  },
+  {
+    "verb": "klagen über + A",
+    "translation": "жаловаться на что-л.",
+    "example": "Er klagt über Rückenschmerzen."
+  },
+  {
+    "verb": "lachen über + A",
+    "translation": "смеяться над чем-л.",
+    "example": "Wir lachen über den Witz."
+  },
+  {
+    "verb": "nachdenken über + A",
+    "translation": "размышлять о чём-л.",
+    "example": "Ich denke über die Zukunft nach."
+  },
+  {
+    "verb": "philosophieren über + A",
+    "translation": "философствовать о чём-л.",
+    "example": "Er philosophiert über das Leben."
+  },
+  {
+    "verb": "reden über + A",
+    "translation": "говорить о чём-л.",
+    "example": "Wir reden über unsere Pläne."
+  },
+  {
+    "verb": "referieren über + A",
+    "translation": "делать доклад о чём-л.",
+    "example": "Sie referiert über Klimawandel."
+  },
+  {
+    "verb": "sagen über + A",
+    "translation": "говорить о ком-/чём-л.",
+    "example": "Er sagt etwas über die Situation."
+  },
+  {
+    "verb": "schimpfen über + A",
+    "translation": "ругаться на кого-л. / что-л.",
+    "example": "Sie schimpft über ihren Chef."
+  },
+  {
+    "verb": "schreiben über + A",
+    "translation": "писать о чём-л.",
+    "example": "Er schreibt über seine Reise."
+  },
+  {
+    "verb": "siegen über + A",
+    "translation": "победить кого-л.",
+    "example": "Er siegt über seinen Gegner."
+  },
+  {
+    "verb": "spotten über + A",
+    "translation": "насмехаться над кем-л.",
+    "example": "Sie spotten über seine Ideen."
+  },
+  {
+    "verb": "sprechen über + A",
+    "translation": "говорить о чём-л.",
+    "example": "Wir sprechen über die Vergangenheit."
+  },
+  {
+    "verb": "sich unterhalten über + A",
+    "translation": "беседовать о чём-л.",
+    "example": "Wir unterhalten uns über das Buch."
+  },
+  {
+    "verb": "urteilen über + A",
+    "translation": "судить о чём-л.",
+    "example": "Ich urteile über die Qualität."
+  },
+  {
+    "verb": "verfügen über + A",
+    "translation": "располагать чем-л.",
+    "example": "Er verfügt über viel Wissen."
+  },
+  {
+    "verb": "weinen über + A",
+    "translation": "плакать из-за чего-л.",
+    "example": "Sie weint über den Verlust."
+  },
+  {
+    "verb": "sich wundern über + A",
+    "translation": "удивляться чему-л.",
+    "example": "Ich wundere mich über seine Entscheidung."
+  },
+  {
+    "verb": "sich ängstigen um + A",
+    "translation": "бояться за кого-л./что-л.",
+    "example": "Sie ängstigt sich um ihre Kinder."
+  },
+  {
+    "verb": "sich bemühen um + A",
+    "translation": "стремиться к, добиваться",
+    "example": "Er bemüht sich um eine Lösung."
+  },
+  {
+    "verb": "jn. beneiden um + A",
+    "translation": "завидовать в чём-л.",
+    "example": "Ich beneide ihn um seinen Erfolg."
+  },
+  {
+    "verb": "jn. betrügen um + A",
+    "translation": "обмануть на что-л.",
+    "example": "Er betrügt sie um ihr Geld."
+  },
+  {
+    "verb": "betteln um + A",
+    "translation": "просить, выпрашивать",
+    "example": "Er bettelt um ein Stück Brot."
+  },
+  {
+    "verb": "sich bewerben um + A",
+    "translation": "подавать заявление на",
+    "example": "Sie bewirbt sich um die Stelle."
+  },
+  {
+    "verb": "jn. bitten um + A",
+    "translation": "просить о",
+    "example": "Ich bitte ihn um Hilfe."
+  },
+  {
+    "verb": "sich drehen um + A",
+    "translation": "вращаться вокруг, идти о",
+    "example": "Die Geschichte dreht sich um Liebe."
+  },
+  {
+    "verb": "(sich) erhöhen um + A",
+    "translation": "увеличиться на",
+    "example": "Die Kosten erhöhen sich um 10 Euro."
+  },
+  {
+    "verb": "gehen um + A",
+    "translation": "речь идёт о",
+    "example": "Es geht um die Wahrheit."
+  },
+  {
+    "verb": "sich handeln um + A",
+    "translation": "речь идёт о",
+    "example": "Es handelt sich um ein Missverständnis."
+  },
+  {
+    "verb": "kämpfen um + A",
+    "translation": "бороться за",
+    "example": "Sie kämpfen um ihre Rechte."
+  },
+  {
+    "verb": "sich kümmern um + A",
+    "translation": "заботиться о",
+    "example": "Er kümmert sich um die Gäste."
+  },
+  {
+    "verb": "sich schlagen um + A",
+    "translation": "драться за",
+    "example": "Sie schlagen sich um den Preis."
+  },
+  {
+    "verb": "sich sorgen um + A",
+    "translation": "беспокоиться о",
+    "example": "Ich sorge mich um seine Gesundheit."
+  },
+  {
+    "verb": "spielen um + A",
+    "translation": "играть на (деньги и т.п.)",
+    "example": "Sie spielen um Geld."
+  },
+  {
+    "verb": "sich/etw. steigern um + A",
+    "translation": "повыситься на",
+    "example": "Die Preise steigern sich um 5 Prozent."
+  },
+  {
+    "verb": "(sich) streiten um + A",
+    "translation": "ссориться из-за, спорить о",
+    "example": "Sie streiten sich um das Erbe."
+  },
+  {
+    "verb": "(sich) vermindern um + A",
+    "translation": "уменьшиться на",
+    "example": "Die Kosten vermindern sich um 20 Euro."
+  },
+  {
+    "verb": "(sich) verringern um + A",
+    "translation": "сократиться на",
+    "example": "Die Zahl verringert sich um die Hälfte."
+  },
+  {
+    "verb": "werben um + A",
+    "translation": "добиваться, привлекать",
+    "example": "Er wirbt um ihre Aufmerksamkeit."
+  },
+  {
+    "verb": "wetten um + A",
+    "translation": "держать пари на",
+    "example": "Wir wetten um ein Bier."
+  },
+  {
+    "verb": "wissen um + A",
+    "translation": "знать о",
+    "example": "Er weiß um das Geheimnis."
+  },
+  {
+    "verb": "leiden unter + D",
+    "translation": "страдать от (нефизическое: давление, стресс)",
+    "example": "Er leidet unter Stress."
+  },
+  {
+    "verb": "stehen unter + D",
+    "translation": "находиться под (влиянием, напряжением и т.п.)",
+    "example": "Sie steht unter Druck."
+  },
+  {
+    "verb": "verstehen unter + D",
+    "translation": "понимать под чем-либо",
+    "example": "Was verstehst du unter Freiheit?"
+  },
+  {
+    "verb": "abhängen von + D",
+    "translation": "зависеть от",
+    "example": "Der Erfolg hängt von der Planung ab."
+  },
+  {
+    "verb": "jn. ablenken von + D",
+    "translation": "отвлекать кого-л. от",
+    "example": "Er lenkt mich von der Arbeit ab."
+  },
+  {
+    "verb": "abschreiben von + D",
+    "translation": "списывать с",
+    "example": "Sie schreibt von der Tafel ab."
+  },
+  {
+    "verb": "absehen von + D",
+    "translation": "воздерживаться от; не учитывать",
+    "example": "Ich sehe von der Entscheidung ab."
+  },
+  {
+    "verb": "sich abwenden von + D",
+    "translation": "отвернуться от",
+    "example": "Er wendet sich von ihr ab."
+  },
+  {
+    "verb": "sich ausruhen von + D",
+    "translation": "отдыхать от",
+    "example": "Sie ruht sich von der Arbeit aus."
+  },
+  {
+    "verb": "jn./sich befreien von + D",
+    "translation": "освободить(ся) от",
+    "example": "Er befreit sich von seinen Sorgen."
+  },
+  {
+    "verb": "jm. berichten von + D",
+    "translation": "сообщать о",
+    "example": "Er berichtet von seiner Reise."
+  },
+  {
+    "verb": "sich distanzieren von + D",
+    "translation": "дистанцироваться от",
+    "example": "Sie distanziert sich von der Aussage."
+  },
+  {
+    "verb": "erfahren von + D",
+    "translation": "узнавать о",
+    "example": "Ich erfahre von dem Unfall."
+  },
+  {
+    "verb": "sich erholen von + D",
+    "translation": "оправиться от, восстановиться после",
+    "example": "Er erholt sich von der Krankheit."
+  },
+  {
+    "verb": "sich ernähren von + D",
+    "translation": "питаться чем-л.",
+    "example": "Sie ernährt sich von Gemüse."
+  },
+  {
+    "verb": "erwarten von + D",
+    "translation": "ожидать от",
+    "example": "Ich erwarte mehr von dir."
+  },
+  {
+    "verb": "erzählen von + D",
+    "translation": "рассказывать о",
+    "example": "Er erzählt von seinem Abenteuer."
+  },
+  {
+    "verb": "halten von + D",
+    "translation": "быть какого-л. мнения о",
+    "example": "Was hältst du von diesem Buch?"
+  },
+  {
+    "verb": "handeln von + D",
+    "translation": "речь идет о; быть о (в фильме, книге и т.п.)",
+    "example": "Der Film handelt von Freundschaft."
+  },
+  {
+    "verb": "hören von + D",
+    "translation": "слышать о",
+    "example": "Ich höre von einem neuen Projekt."
+  },
+  {
+    "verb": "leben von + D",
+    "translation": "жить на (какие-либо средства)",
+    "example": "Er lebt von seinem Erbe."
+  },
+  {
+    "verb": "loskommen von + D",
+    "translation": "освободиться от, отвязаться",
+    "example": "Sie kommt von ihren alten Gewohnheiten los."
+  },
+  {
+    "verb": "reden von + D",
+    "translation": "говорить о",
+    "example": "Er redet von seinen Träumen."
+  },
+  {
+    "verb": "etwas/nichts sagen von + D",
+    "translation": "что-то/ничего не говорить о",
+    "example": "Er sagt nichts von dem Vorfall."
+  },
+  {
+    "verb": "schreiben von + D",
+    "translation": "писать о",
+    "example": "Sie schreibt von ihrer Heimat."
+  },
+  {
+    "verb": "sprechen von + D",
+    "translation": "говорить о",
+    "example": "Er spricht von seinen Plänen."
+  },
+  {
+    "verb": "schwärmen von + D",
+    "translation": "восторгаться, восхищаться",
+    "example": "Sie schwärmt von ihrem Urlaub."
+  },
+  {
+    "verb": "träumen von + D",
+    "translation": "мечтать о, видеть во сне",
+    "example": "Er träumt von einer besseren Welt."
+  },
+  {
+    "verb": "sich trennen von + D",
+    "translation": "расставаться с",
+    "example": "Sie trennt sich von ihrem Freund."
+  },
+  {
+    "verb": "jn./sich überzeugen von + D",
+    "translation": "убедить(ся) в",
+    "example": "Ich überzeuge mich von seiner Ehrlichkeit."
+  },
+  {
+    "verb": "sich unterscheiden von + D",
+    "translation": "отличаться от",
+    "example": "Er unterscheidet sich von den anderen."
+  },
+  {
+    "verb": "verlangen von + D",
+    "translation": "требовать от",
+    "example": "Sie verlangt Respekt von allen."
+  },
+  {
+    "verb": "etwas/nichts verstehen von + D",
+    "translation": "разбираться/не разбираться в",
+    "example": "Ich verstehe nichts von Technik."
+  },
+  {
+    "verb": "wissen von + D",
+    "translation": "знать о",
+    "example": "Er weiß von dem Problem."
+  },
+  {
+    "verb": "sich ängstigen vor + D",
+    "translation": "бояться чего-л.",
+    "example": "Sie ängstigt sich vor Spinnen."
+  },
+  {
+    "verb": "sich ekeln vor + D",
+    "translation": "испытывать отвращение к чему-л.",
+    "example": "Er ekelt sich vor dem Geruch."
+  },
+  {
+    "verb": "fliehen vor + D",
+    "translation": "бежать от чего-л.",
+    "example": "Sie fliehen vor der Gefahr."
+  },
+  {
+    "verb": "sich fürchten vor + D",
+    "translation": "бояться чего-л.",
+    "example": "Er fürchtet sich vor Hunden."
+  },
+  {
+    "verb": "grauen jm. vor + D",
+    "translation": "кого-л. страшит что-л.",
+    "example": "Ihm graut vor der Prüfung."
+  },
+  {
+    "verb": "sich hüten vor + D",
+    "translation": "остерегаться чего-л.",
+    "example": "Hüte dich vor falschen Freunden!"
+  },
+  {
+    "verb": "sich schämen vor + D",
+    "translation": "стыдиться перед кем-л.",
+    "example": "Sie schämt sich vor ihrem Lehrer."
+  },
+  {
+    "verb": "(sich/jn.) schützen vor + D",
+    "translation": "защищать(ся) от чего-л.",
+    "example": "Er schützt sich vor der Kälte."
+  },
+  {
+    "verb": "(sich/jn./etwas) verstecken vor + D",
+    "translation": "прятать(ся) от кого-л./чего-л.",
+    "example": "Sie versteckt sich vor der Polizei."
+  },
+  {
+    "verb": "jn. warnen vor + D",
+    "translation": "предупреждать кого-л. о чем-л.",
+    "example": "Er warnt mich vor der Gefahr."
+  },
+  {
+    "verb": "anhalten jn. zu + D",
+    "translation": "приучать к, призывать к",
+    "example": "Er hält die Kinder zu Ordnung an."
+  },
+  {
+    "verb": "anmerken zu + D",
+    "translation": "добавить к, прокомментировать",
+    "example": "Ich merke etwas zu dem Thema an."
+  },
+  {
+    "verb": "aufrufen jn. zu + D",
+    "translation": "призывать к",
+    "example": "Er ruft die Bürger zu Einigkeit auf."
+  },
+  {
+    "verb": "beglückwünschen jn. zu + D",
+    "translation": "поздравлять с",
+    "example": "Ich beglückwünsche dich zu deinem Erfolg."
+  },
+  {
+    "verb": "beitragen zu + D",
+    "translation": "способствовать чему-л.",
+    "example": "Das Projekt trägt zum Fortschritt bei."
+  },
+  {
+    "verb": "bestimmen jn. zu + D",
+    "translation": "назначать кем-л.",
+    "example": "Er bestimmt ihn zum Leiter."
+  },
+  {
+    "verb": "bewegen jn. zu + D",
+    "translation": "побудить к",
+    "example": "Das Buch bewegt mich zu Tränen."
+  },
+  {
+    "verb": "bringen jn. zu + D",
+    "translation": "заставить, побудить",
+    "example": "Er bringt mich zu einer Entscheidung."
+  },
+  {
+    "verb": "dienen zu + D",
+    "translation": "служить для",
+    "example": "Dieses Werkzeug dient zum Schneiden."
+  },
+  {
+    "verb": "drängen jn. zu + D",
+    "translation": "принуждать к",
+    "example": "Sie drängt ihn zu einer Antwort."
+  },
+  {
+    "verb": "sich entschließen zu + D",
+    "translation": "решаться на",
+    "example": "Er entschließt sich zu einem Umzug."
+  },
+  {
+    "verb": "einladen jn. zu + D",
+    "translation": "приглашать на",
+    "example": "Sie lädt ihn zu einer Party ein."
+  },
+  {
+    "verb": "sich entscheiden zu + D",
+    "translation": "решаться на",
+    "example": "Ich entscheide mich zu einem neuen Job."
+  },
+  {
+    "verb": "ermahnen jn. zu + D",
+    "translation": "предостерегать, увещевать",
+    "example": "Er ermahnt die Kinder zu Vorsicht."
+  },
+  {
+    "verb": "ermutigen jn. zu + D",
+    "translation": "ободрять, поощрять",
+    "example": "Sie ermutigt ihn zu neuen Taten."
+  },
+  {
+    "verb": "erziehen jn. zu + D",
+    "translation": "воспитывать в духе чего-л.",
+    "example": "Er erzieht seine Kinder zu Ehrlichkeit."
+  },
+  {
+    "verb": "führen zu + D",
+    "translation": "приводить к",
+    "example": "Die Diskussion führt zu einer Lösung."
+  },
+  {
+    "verb": "gehören zu + D",
+    "translation": "принадлежать к",
+    "example": "Er gehört zum Team."
+  },
+  {
+    "verb": "gratulieren jm. zu + D",
+    "translation": "поздравлять с",
+    "example": "Ich gratuliere dir zum Geburtstag."
+  },
+  {
+    "verb": "halten zu + D",
+    "translation": "быть на чьей-л. стороне",
+    "example": "Ich halte zu meinen Freunden."
+  },
+  {
+    "verb": "herausfordern jn. zu + D",
+    "translation": "бросать вызов",
+    "example": "Er fordert ihn zu einem Duell heraus."
+  },
+  {
+    "verb": "kommen zu + D",
+    "translation": "приходить к (результату)",
+    "example": "Wir kommen zu einem Ergebnis."
+  },
+  {
+    "verb": "neigen zu + D",
+    "translation": "склоняться к",
+    "example": "Er neigt zu Übertreibungen."
+  },
+  {
+    "verb": "passen zu + D",
+    "translation": "подходить к",
+    "example": "Diese Farbe passt zu deinem Kleid."
+  },
+  {
+    "verb": "raten jm. zu + D",
+    "translation": "советовать",
+    "example": "Ich rate dir zu einer Pause."
+  },
+  {
+    "verb": "rechnen jn. zu + D",
+    "translation": "причислять к",
+    "example": "Er rechnet ihn zu den Besten."
+  },
+  {
+    "verb": "sagen zu + D",
+    "translation": "высказываться о",
+    "example": "Er sagt etwas zu dem Vorschlag."
+  },
+  {
+    "verb": "schicken jn. zu + D",
+    "translation": "посылать к",
+    "example": "Sie schickt ihn zum Arzt."
+  },
+  {
+    "verb": "taugen zu + D",
+    "translation": "годиться для",
+    "example": "Dieses Holz taugt zum Bauen."
+  },
+  {
+    "verb": "tendieren zu + D",
+    "translation": "иметь тенденцию к",
+    "example": "Er tendiert zu einer konservativen Ansicht."
+  },
+  {
+    "verb": "überreden jn. zu + D",
+    "translation": "уговаривать",
+    "example": "Sie überredet ihn zu einem Ausflug."
+  },
+  {
+    "verb": "sich verabreden zu + D",
+    "translation": "договариваться о",
+    "example": "Wir verabreden uns zu einem Treffen."
+  },
+  {
+    "verb": "veranlassen jn. zu + D",
+    "translation": "побуждать к",
+    "example": "Er veranlasst ihn zu einer Entschuldigung."
+  },
+  {
+    "verb": "verwenden zu + D",
+    "translation": "использовать для",
+    "example": "Wir verwenden das Geld zu einem guten Zweck."
+  },
+  {
+    "verb": "verführen jn. zu + D",
+    "translation": "соблазнять",
+    "example": "Er verführt sie zu einer Dummheit."
+  },
+  {
+    "verb": "verleiten jn. zu + D",
+    "translation": "подстрекать к",
+    "example": "Er verleitet ihn zu einem Fehler."
+  },
+  {
+    "verb": "verpflichten jn. zu + D",
+    "translation": "обязывать к",
+    "example": "Die Regeln verpflichten uns zur Teilnahme."
+  },
+  {
+    "verb": "verurteilen jn. zu + D",
+    "translation": "приговорить к",
+    "example": "Er wird zu einer Strafe verurteilt."
+  },
+  {
+    "verb": "wählen jn. zu + D",
+    "translation": "выбирать кем-л.",
+    "example": "Sie wählen ihn zum Vorsitzenden."
+  },
+  {
+    "verb": "werden zu + D",
+    "translation": "становиться",
+    "example": "Er wird zu einem Helden."
+  },
+  {
+    "verb": "zählen zu + D",
+    "translation": "относиться к",
+    "example": "Das gehört zu meinen Aufgaben."
+  },
+  {
+    "verb": "zwingen jn. zu + D",
+    "translation": "принуждать к",
+    "example": "Er zwingt ihn zu einer Entscheidung."
+  },
+  {
+    "verb": "unterscheiden zwischen + D",
+    "translation": "различать между",
+    "example": "Ich unterscheide zwischen Gut und Böse."
+  },
+  {
+    "verb": "vermitteln zwischen + D",
+    "translation": "быть посредником между",
+    "example": "Er vermittelt zwischen den Parteien."
+  }
+]

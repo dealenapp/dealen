@@ -1,0 +1,866 @@
+[
+  {
+    "theme": "Nouns: Singular and plural forms",
+    "category": "A1",
+    "description": "To form the plural of most nouns, simply add -s. However, there are several exceptions. Nouns ending in -s, -x, -z, -sh, or -ch add -es. Nouns ending in a consonant + y, change the -y to -ies. Nouns ending in -f or -fe usually change to -ves. There are also completely irregular nouns that do not follow any of these rules and must be memorized.",
+    "table": {
+      "headers": ["Rule", "Example", "Exceptions"],
+      "rows": [
+        ["Add -s", "book → books", "Nouns ending in s, x, z, ch, sh, y, f, fe, etc."],
+        ["Add -es", "box → boxes", "Some nouns ending in -o (e.g., photo → photos)"],
+        ["Change -y to -ies", "baby → babies", "Nouns ending in a vowel + y (e.g., key → keys)"],
+        ["Change -f/-fe to -ves", "leaf → leaves", "Some nouns ending in -f (e.g., chief → chiefs)"],
+        ["Irregular", "child → children", "No specific rule"]
+      ]
+    },
+    "examples": [
+      { "en": "I have one book on the shelf, but you have three books." },
+      { "en": "The child is playing with two other children." }
+    ]
+  },
+  {
+    "theme": "Articles: Use of 'a,' 'an,' and 'the.'",
+    "category": "A1",
+    "description": "The indefinite articles 'a' and 'an' are used for singular, countable nouns that are not specific. 'A' is used before a consonant sound, and 'an' is used before a vowel sound. The definite article 'the' is used for a specific noun that is already known to the listener or has been mentioned before. It is also used with unique items, superlatives, and when referring to a class of items. We do not use an article with most proper nouns (e.g., names of people, cities) or with uncountable nouns in a general sense.",
+    "table": {
+      "headers": ["Article", "Usage", "Example"],
+      "rows": [
+        ["a/an", "Indefinite article for non-specific, singular countable nouns.", "I need a pen. He has an umbrella."],
+        ["the", "Definite article for specific, singular or plural nouns.", "Pass me the pen on the table."],
+        ["Zero article", "Used with uncountable nouns in a general sense or plural nouns in a general sense.", "Water is essential for life."]
+      ]
+    },
+    "examples": [
+      { "en": "I saw a cat. The cat was black." },
+      { "en": "The moon is bright tonight." }
+    ]
+  },
+  {
+    "theme": "Personal Pronouns: I, you, he, she, it, we, they",
+    "category": "A1",
+    "description": "Personal pronouns are used to replace nouns. There are subject pronouns (I, you, he, she, it, we, they) which perform the action of the verb, and object pronouns (me, you, him, her, it, us, them) which receive the action of the verb. 'You' is the same for both subject and object. 'It' is used for animals or objects.",
+    "table": {
+      "headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+      "rows": [
+        ["I", "me", "I saw him."],
+        ["You", "you", "She saw you."],
+        ["He", "him", "He went to the store."],
+        ["She", "her", "I gave the book to her."],
+        ["It", "it", "It is raining."],
+        ["We", "us", "They visited us."],
+        ["They", "them", "They are coming."]
+      ]
+    },
+    "examples": [
+      { "en": "She is a doctor. I met her yesterday." },
+      { "en": "They are my friends." }
+    ]
+  },
+  {
+    "theme": "Possessive Adjectives: my, your, his, her, its, our, their",
+    "category": "A1",
+    "description": "Possessive adjectives show ownership and are always placed before the noun they modify. They do not change their form based on number or gender of the noun. 'Its' is used to show possession for 'it' and should not be confused with 'it's' (it is).",
+    "table": {
+      "headers": ["Pronoun", "Possessive Adjective", "Example"],
+      "rows": [
+        ["I", "my", "My book is on the table."],
+        ["You", "your", "Is this your phone?"],
+        ["He", "his", "His car is red."],
+        ["She", "her", "This is her jacket."],
+        ["It", "its", "The dog wagged its tail."],
+        ["We", "our", "Our house is big."],
+        ["They", "their", "Their parents are here."]
+      ]
+    },
+    "examples": [
+      { "en": "My name is John. What is your name?" },
+      { "en": "She loves her new job." }
+    ]
+  },
+  {
+    "theme": "Verb 'to be': Present tense (am/is/are) and past tense (was/were)",
+    "category": "A1",
+    "description": "The verb 'to be' is an irregular verb used to describe states of being, identity, and location. In the present tense, it is conjugated as 'am' for 'I', 'is' for 'he/she/it', and 'are' for 'you/we/they'. In the past tense, it is conjugated as 'was' for 'I/he/she/it' and 'were' for 'you/we/they'.",
+    "table": {
+      "headers": ["Subject", "Present Tense", "Past Tense"],
+      "rows": [
+        ["I", "am", "was"],
+        ["You/We/They", "are", "were"],
+        ["He/She/It", "is", "was"]
+      ]
+    },
+    "examples": [
+      { "en": "I am happy. They are at home." },
+      { "en": "She was sick yesterday. We were students." }
+    ]
+  },
+  {
+    "theme": "Simple Present Tense: For habits and facts",
+    "category": "A1",
+    "description": "The Simple Present tense is used for actions that are general truths, facts, or habitual actions. For the pronouns I, you, we, and they, the verb is used in its base form. For the third-person singular pronouns he, she, and it, you must add an -s to the end of the verb. The exceptions for adding -s are verbs ending in -ss, -x, -ch, -sh, -o, which add -es (e.g., pass → passes; go → goes), and verbs ending in a consonant + y, which change the -y to -ies (e.g., study → studies).",
+    "table": {
+      "headers": ["Usage", "Structure", "Example"],
+      "rows": [
+        ["Habits and routines", "Subject + verb (-s for he/she/it)", "I work every day. He works in a bank."],
+        ["General truths/facts", "Subject + verb (-s for he/she/it)", "The sun rises in the east."]
+      ]
+    },
+    "examples": [
+      { "en": "She drinks coffee every morning." },
+      { "en": "Water boils at 100 degrees Celsius." }
+    ]
+  },
+  {
+    "theme": "Present Continuous Tense: For actions happening now",
+    "category": "A1",
+    "description": "The Present Continuous tense is used for actions that are in progress at the time of speaking or for temporary situations. It is formed with the present tense of 'to be' (am, is, are) followed by the main verb's -ing form. Some verbs are generally not used in the continuous form because they describe states, not actions (e.g., love, know, believe, like, hate, want, need). These are called stative verbs.",
+    "table": {
+      "headers": ["Usage", "Structure", "Example"],
+      "rows": [
+        ["Action happening now", "Subject + am/is/are + verb-ing", "I am studying right now."],
+        ["Temporary situations", "Subject + am/is/are + verb-ing", "He is living in London for a few months."]
+      ]
+    },
+    "examples": [
+      { "en": "Look! The children are playing in the garden." },
+      { "en": "I am working on a new project." }
+    ]
+  },
+  {
+    "theme": "Simple Past Tense: Regular verbs",
+    "category": "A1",
+    "description": "The Simple Past tense is used for actions that began and ended at a specific time in the past. For regular verbs, the past tense is formed by adding -ed to the base form. If the verb ends in -e, simply add -d. If the verb ends in a consonant + y, change the -y to -ied. For some verbs ending in a single vowel + a single consonant, we double the consonant before adding -ed (e.g., plan → planned).",
+    "table": {
+      "headers": ["Rule", "Structure", "Example"],
+      "rows": [
+        ["Add -ed", "Subject + verb-ed", "She walked to school yesterday."],
+        ["Ending in -e, add -d", "Subject + verb-d", "They lived there for five years."],
+        ["Ending in a consonant + y, change -y to -ied", "Subject + verb-ied", "He studied for the test."]
+      ]
+    },
+    "examples": [
+      { "en": "We watched a movie last night." },
+      { "en": "She visited her grandmother on Saturday." }
+    ]
+  },
+  {
+    "theme": "Prepositions of Place and Time: in, on, at",
+    "category": "A1",
+    "description": "Prepositions of place and time show where or when something is. 'In' is used for large or enclosed spaces (e.g., a city, a room) and for long periods of time (e.g., a month, a year). 'On' is used for surfaces (e.g., a table) and for specific days or dates. 'At' is used for a specific point in space (e.g., a specific address) or time (e.g., a specific hour).",
+    "table": {
+      "headers": ["Preposition", "Place Usage", "Time Usage"],
+      "rows": [
+        ["in", "in the room, in the city", "in the morning, in 2023"],
+        ["on", "on the table, on the wall", "on Monday, on May 5th"],
+        ["at", "at the bus stop, at school", "at 5 o'clock, at night"]
+      ]
+    },
+    "examples": [
+      { "en": "The book is on the table." },
+      { "en": "I will meet you at 3 PM." }
+    ]
+  },
+  {
+    "theme": "Basic Questions: Using 'what,' 'where,' 'who,' 'when.'",
+    "category": "A1",
+    "description": "Wh-questions are used to ask for specific information. They follow a specific structure: Question word + auxiliary verb (do/does, is/are) + subject + main verb. 'What' asks about things, 'where' asks about places, 'who' asks about people, and 'when' asks about time. There are no exceptions to this basic structure.",
+    "table": {
+      "headers": ["Question Word", "Function", "Example"],
+      "rows": [
+        ["What", "Asks about a thing or action", "What is your name?"],
+        ["Where", "Asks about a place", "Where do you live?"],
+        ["Who", "Asks about a person", "Who is that?"],
+        ["When", "Asks about a time", "When is your birthday?"]
+      ]
+    },
+    "examples": [
+      { "en": "Where are you going?" },
+      { "en": "Who is your favorite singer?" }
+    ]
+  },
+  {
+    "theme": "Modal Verb 'can': Expressing ability",
+    "category": "A1",
+    "description": "The modal verb 'can' is used to express ability, possibility, or permission. It is followed by the base form of the main verb without 'to' and does not change its form for different subjects. The negative form is 'cannot' or the contraction 'can't'. Questions are formed by inverting the subject and 'can'.",
+    "table": {
+      "headers": ["Usage", "Structure", "Example"],
+      "rows": [
+        ["Ability", "Subject + can + verb", "I can swim."],
+        ["Negative ability", "Subject + cannot (can't) + verb", "He can't speak French."],
+        ["Questions", "Can + subject + verb?", "Can you help me?"]
+      ]
+    },
+    "examples": [
+      { "en": "She can play the piano very well." },
+      { "en": "Can I borrow your pen?" }
+    ]
+  }
+,
+
+  {
+    "theme": "Simple Past Tense: Irregular verbs.",
+    "category": "A2",
+    "description": "The Simple Past tense is used for actions completed at a specific time in the past. Unlike regular verbs that add -ed, irregular verbs have unique forms that do not follow a pattern. These forms must be memorized. There are no general rules for irregular verbs, so they are considered exceptions to the -ed rule.",
+    "table": {
+      "headers": ["Infinitive", "Past Simple Form", "Example"],
+      "rows": [
+        ["be", "was/were", "I was at home."],
+        ["go", "went", "She went to the park."],
+        ["have", "had", "We had a great time."],
+        ["eat", "ate", "He ate a sandwich."],
+        ["do", "did", "They did their homework."]
+      ]
+    },
+    "examples": [
+      { "en": "I went to the store yesterday." },
+      { "en": "She had a good idea." }
+    ]
+  },
+  {
+    "theme": "Future Tense: Using 'will' and 'going to.'",
+    "category": "A2",
+    "description": "Both 'will' and 'going to' are used for future actions, but they have different uses. 'Will' is used for spontaneous decisions made at the moment of speaking, predictions without strong evidence, and promises. 'Going to' is used for plans and intentions made before the moment of speaking, and for predictions based on present evidence. There are no exceptions to these usage rules.",
+    "table": {
+      "headers": ["Structure", "Usage", "Example"],
+      "rows": [
+        ["will + base verb", "Spontaneous decisions, promises, general predictions.", "I think it will rain tomorrow. I will help you."],
+        ["am/is/are + going to + base verb", "Plans, intentions, predictions with evidence.", "I am going to study tonight. Look at those clouds! It is going to rain."]
+      ]
+    },
+    "examples": [
+      { "en": "The phone is ringing. I will answer it." },
+      { "en": "She is going to visit her family next week." }
+    ]
+  },
+  {
+    "theme": "Present Perfect Tense: For experiences and recent events.",
+    "category": "A2",
+    "description": "The Present Perfect tense is used for past actions that are connected to the present. It is formed with 'have' or 'has' and the past participle of the main verb. It is used to talk about experiences (e.g., 'Have you ever been to Paris?'), actions that started in the past and continue to the present, and recent events with a present result. The past participle form for regular verbs is the same as the Simple Past (-ed), but irregular verbs have their own past participle forms which must be memorized.",
+    "table": {
+      "headers": ["Structure", "Usage", "Example"],
+      "rows": [
+        ["have/has + past participle", "Life experiences (since, ever, never).", "I have traveled to many countries."],
+        ["have/has + past participle", "Recent past actions with a present result.", "She has lost her keys (so she can't get in)."]
+      ]
+    },
+    "examples": [
+      { "en": "I have seen that movie before." },
+      { "en": "He has worked here for five years." }
+    ]
+  },
+  {
+    "theme": "Modal Verbs: must, have to, should.",
+    "category": "A2",
+    "description": "Modal verbs express a range of meanings like obligation, necessity, or advice. 'Must' and 'have to' express obligation, with 'must' often being a strong personal feeling or a rule, and 'have to' often expressing an external obligation. 'Should' is used to give advice or make recommendations. The negative form of 'must' is 'mustn't' (prohibition), while the negative of 'have to' is 'don't/doesn't have to' (lack of obligation). 'Must' cannot be used in the past tense; 'had to' is used instead.",
+    "table": {
+      "headers": ["Modal Verb", "Meaning", "Example"],
+      "rows": [
+        ["must", "Strong obligation, certainty.", "You must stop at a red light."],
+        ["have to", "External obligation, necessity.", "I have to work on Saturday."],
+        ["should", "Advice, recommendation.", "You should get more sleep."]
+      ]
+    },
+    "examples": [
+      { "en": "I must finish this report today." },
+      { "en": "You should apologize to her." }
+    ]
+  },
+  {
+    "theme": "Comparatives and Superlatives: Adjectives and adverbs.",
+    "category": "A2",
+    "description": "Comparatives are used to compare two things, while superlatives compare three or more things. For most one-syllable adjectives, we add -er for the comparative and -est for the superlative. For longer adjectives, we use 'more' and 'most'. Adjectives ending in a consonant + y, change -y to -ier/-iest (e.g., happy → happier). There are some common irregular forms that must be learned, such as good/better/best and bad/worse/worst. Most adverbs use 'more' and 'most' (e.g., more slowly).",
+    "table": {
+      "headers": ["Rule", "Comparative", "Superlative", "Example"],
+      "rows": [
+        ["One-syllable", "tall → taller", "tall → tallest", "He is taller than me."],
+        ["Long adjectives", "beautiful → more beautiful", "beautiful → most beautiful", "This is the most beautiful song."],
+        ["Irregular", "good → better", "good → best", "She is the best student in the class."]
+      ]
+    },
+    "examples": [
+      { "en": "This car is faster than that one." },
+      { "en": "This is the biggest house on the street." }
+    ]
+  },
+  {
+    "theme": "Quantifiers: some, any, no, much, many, a lot of.",
+    "category": "A2",
+    "description": "Quantifiers are words used before nouns to express a quantity or amount. 'Some' is used in affirmative sentences and in offers/requests. 'Any' is used in questions and negative sentences. 'No' is used for zero quantity with a positive verb. 'Much' is for uncountable nouns, 'many' for countable nouns, and 'a lot of' for both. 'A lot of' is more common in informal speech and writing than 'much' or 'many'.",
+    "table": {
+      "headers": ["Quantifier", "Usage", "Example"],
+      "rows": [
+        ["some", "Affirmative sentences and offers", "I have some money. Would you like some tea?"],
+        ["any", "Questions and negatives", "Do you have any questions? I don't have any money."],
+        ["no", "Zero quantity", "I have no money."],
+        ["much", "Uncountable nouns (negative/questions)", "I don't have much time."],
+        ["many", "Countable nouns", "There are many people here."],
+        ["a lot of", "Both countable and uncountable", "I have a lot of friends and a lot of free time."]
+      ]
+    },
+    "examples": [
+      { "en": "We bought some fruit at the market." },
+      { "en": "Is there any coffee left?" }
+    ]
+  },
+  {
+    "theme": "Conditional Sentences: Zero and First conditionals.",
+    "category": "A2",
+    "description": "Conditional sentences describe cause and effect. The zero conditional is for general truths and facts where the result is always certain. The first conditional is for a real possibility in the future, where the result is likely but not guaranteed. The structure for both is 'if clause' and 'main clause'. There are no exceptions to these structures.",
+    "table": {
+      "headers": ["Conditional Type", "Structure", "Example"],
+      "rows": [
+        ["Zero Conditional", "If + Present Simple, Present Simple", "If you heat ice, it melts."],
+        ["First Conditional", "If + Present Simple, will + base verb", "If it rains, we will stay at home."]
+      ]
+    },
+    "examples": [
+      { "en": "If you mix red and blue, you get purple." },
+      { "en": "If she studies, she will pass the exam." }
+    ]
+  },
+  {
+    "theme": "Connectors: and, but, so, because.",
+    "category": "A2",
+    "description": "Connectors (or conjunctions) are used to join words, phrases, or clauses. 'And' is used to add information or connect similar ideas. 'But' is used to show a contrast between two ideas. 'So' is used to show a result or consequence. 'Because' is used to give a reason. These connectors are simple and do not have exceptions at this level.",
+    "table": null,
+    "examples": [
+      { "en": "I like coffee and she likes tea." },
+      { "en": "He is tired, but he needs to work." },
+      { "en": "It was raining, so we took a taxi." },
+      { "en": "I was late because of the traffic." }
+    ]
+  },
+  {
+    "theme": "Passive Voice: In simple present and past tenses.",
+    "category": "A2",
+    "description": "The passive voice is used when the focus is on the action and not on who or what is performing the action. It is formed with the verb 'to be' and the past participle of the main verb. In the simple present, it is formed with 'am/is/are' + past participle. In the simple past, it is formed with 'was/were' + past participle. The past participle for irregular verbs must be memorized.",
+    "table": {
+      "headers": ["Tense", "Structure", "Example"],
+      "rows": [
+        ["Present Passive", "am/is/are + past participle", "The house is cleaned every day."],
+        ["Past Passive", "was/were + past participle", "The car was stolen last night."]
+      ]
+    },
+    "examples": [
+      { "en": "This book is written by an author." },
+      { "en": "The letter was delivered yesterday." }
+    ]
+  },
+  {
+    "theme": "Gerunds: After verbs like like, love, hate.",
+    "category": "A2",
+    "description": "A gerund is a verb form ending in -ing that functions as a noun. It is commonly used after certain verbs to express feelings or preferences, such as 'like,' 'love,' 'hate,' 'enjoy,' and 'dislike.' There are also some verbs that can be followed by either a gerund or an infinitive with a change in meaning, but this is usually taught at a higher level.",
+    "table": null,
+    "examples": [
+      { "en": "I love swimming." },
+      { "en": "She enjoys reading books." },
+      { "en": "He hates waiting in lines." }
+    ]
+  },
+  
+  
+  
+  
+  {
+    "theme": "Present Perfect Continuous Tense",
+    "category": "B1",
+    "description": "The Present Perfect Continuous Tense is used to show that an action started in the past and continues to be relevant in the present, often emphasizing duration or ongoing nature. It is formed with 'have/has been' + verb-ing. Exceptions: Stative verbs (e.g., know, believe, own) are not typically used in continuous forms, as they describe states rather than actions.",
+    "table": {
+      "headers": ["Tense", "Structure", "Example"],
+      "rows": [
+        ["Present Perfect Continuous", "have/has been + verb-ing", "She has been studying for three hours."]
+      ]
+    },
+    "examples": [
+      { "en": "I have been working on this project since morning." },
+      { "en": "They have been playing football in the rain." }
+    ]
+  },
+  {
+    "theme": "Past Continuous Tense",
+    "category": "B1",
+    "description": "The Past Continuous Tense describes actions that were in progress at a specific time in the past or were interrupted by another event. It is formed with 'was/were' + verb-ing. Exceptions: Stative verbs (e.g., want, know) are not used in continuous forms.",
+    "table": {
+      "headers": ["Tense", "Structure", "Example"],
+      "rows": [
+        ["Past Continuous", "was/were + verb-ing", "They were watching TV at 8 PM."]
+      ]
+    },
+    "examples": [
+      { "en": "She was cooking when the phone rang." },
+      { "en": "We were walking in the park yesterday evening." }
+    ]
+  },
+  {
+    "theme": "Past Perfect Tense",
+    "category": "B1",
+    "description": "The Past Perfect Tense is used to show that one action happened before another in the past. It is formed with 'had' + past participle. There are no major exceptions, but it is often used with time expressions like 'before', 'after', or 'by the time'.",
+    "table": {
+      "headers": ["Tense", "Structure", "Example"],
+      "rows": [
+        ["Past Perfect", "had + past participle", "She had finished her homework before dinner."]
+      ]
+    },
+    "examples": [
+      { "en": "They had left by the time we arrived." },
+      { "en": "I had never seen such a beautiful sunset before." }
+    ]
+  },
+  {
+    "theme": "Second Conditional: For hypothetical situations",
+    "category": "B1",
+    "description": "The Second Conditional is used to talk about unreal or hypothetical situations in the present or future and their imagined results. The structure is 'If + Past Simple, would + base verb'. 'Were' is used for all subjects in formal English (e.g., 'If I were...'). No major exceptions, but 'could' or 'might' can replace 'would' for possibility.",
+    "table": {
+      "headers": ["Type", "Structure", "Example"],
+      "rows": [
+        ["Second Conditional", "If + Past Simple, would + base verb", "If I had more time, I would travel."]
+      ]
+    },
+    "examples": [
+      { "en": "If she studied harder, she would pass the exam." },
+      { "en": "If I were rich, I would buy a big house." }
+    ]
+  },
+  {
+    "theme": "Reported Speech: Basic statements",
+    "category": "B1",
+    "description": "Reported Speech conveys what someone said without quoting directly. For basic statements, the verb usually shifts back one tense (e.g., Present Simple to Past Simple). Pronouns and time expressions (e.g., 'now' to 'then') also change. Exceptions: If the reporting verb is in the present (e.g., 'She says'), the tense remains unchanged.",
+    "table": {
+      "headers": ["Direct Speech", "Reported Speech", "Notes"],
+      "rows": [
+        ["Present Simple: 'I like tea.'", "She said she liked tea.", "Tense shifts back."],
+        ["Present: 'I am tired.'", "He says he is tired.", "No tense change with present reporting verb."]
+      ]
+    },
+    "examples": [
+      { "en": "She said she was going to the store." },
+      { "en": "He says he loves this book." }
+    ]
+  },
+  {
+    "theme": "Relative Clauses: With who, which, that",
+    "category": "B1",
+    "description": "Relative Clauses provide extra information about a noun using 'who' (for people), 'which' (for things/animals), or 'that' (for people or things in defining clauses). Defining clauses identify the noun and do not use commas; non-defining clauses add extra information and use commas. Exceptions: 'That' cannot be used in non-defining clauses or after prepositions.",
+    "table": {
+      "headers": ["Pronoun", "Use", "Example"],
+      "rows": [
+        ["who", "People (defining/non-defining)", "The man who called was my boss."],
+        ["which", "Things/animals (defining/non-defining)", "The book, which is on the table, is mine."],
+        ["that", "People/things (defining only)", "The car that I bought is red."]
+      ]
+    },
+    "examples": [
+      { "en": "The woman who lives next door is a doctor." },
+      { "en": "This is the house that Jack built." }
+    ]
+  },
+  {
+    "theme": "Passive Voice: In perfect and future tenses",
+    "category": "B1",
+    "description": "The Passive Voice focuses on the action or object rather than the subject. In perfect tenses, it is formed with 'have/has/had been' + past participle; in future tenses, 'will be' + past participle. Exceptions: Intransitive verbs (e.g., arrive, sleep) cannot be used in the passive voice, as they lack a direct object.",
+    "table": {
+      "headers": ["Tense", "Structure", "Example"],
+      "rows": [
+        ["Present Perfect Passive", "have/has been + past participle", "The room has been cleaned."],
+        ["Past Perfect Passive", "had been + past participle", "The work had been completed."],
+        ["Future Passive", "will be + past participle", "The project will be finished soon."]
+      ]
+    },
+    "examples": [
+      { "en": "The cake has been eaten by the children." },
+      { "en": "The house will be painted next week." }
+    ]
+  },
+  {
+    "theme": "Gerunds and Infinitives: Expanded usage after various verbs",
+    "category": "B1",
+    "description": "Gerunds (verb-ing) act as nouns, while infinitives (to + verb) often indicate purpose or result. Some verbs take gerunds (e.g., enjoy, avoid), others take infinitives (e.g., want, decide), and some take both with different meanings (e.g., try). Exceptions: Verbs like 'like' or 'love' can take either with little difference in informal contexts.",
+    "table": {
+      "headers": ["Verb", "Form", "Example"],
+      "rows": [
+        ["enjoy", "Gerund", "I enjoy reading books."],
+        ["decide", "Infinitive", "She decided to stay home."],
+        ["try", "Gerund vs Infinitive", "I tried calling (attempted) vs I tried to call (made an effort)."]
+      ]
+    },
+    "examples": [
+      { "en": "He avoids meeting new people." },
+      { "en": "They plan to visit Paris next year." }
+    ]
+  },
+  {
+    "theme": "Phrasal Verbs: Common ones",
+    "category": "B1",
+    "description": "Phrasal verbs combine a verb with a preposition or adverb, creating new meanings. They can be separable (object can go between verb and particle) or inseparable (object follows). Meanings are often idiomatic. No major exceptions, but context determines meaning, and some have multiple meanings.",
+    "table": {
+      "headers": ["Phrasal Verb", "Meaning", "Example"],
+      "rows": [
+        ["pick up", "Collect or learn", "I’ll pick you up at 7 PM."],
+        ["give up", "Quit", "She gave up smoking."],
+        ["look for", "Search", "I’m looking for my keys."]
+      ]
+    },
+    "examples": [
+      { "en": "He turned off the light before leaving." },
+      { "en": "They ran out of milk this morning." }
+    ]
+  },
+  {
+    "theme": "Used to: For past habits",
+    "category": "B1",
+    "description": "Used to describes past habits or states that are no longer true. It is formed with 'used to' + base verb. It is distinct from 'be used to' (accustomed to) and 'get used to' (become accustomed to), which take a noun or gerund. No major exceptions, but negative and question forms use 'didn’t use to' and 'Did ... use to ...?'.",
+    "table": {
+      "headers": ["Form", "Use", "Example"],
+      "rows": [
+        ["used to", "Past habit/state", "I used to live in London."],
+        ["didn’t use to", "Negative", "She didn’t use to like coffee."],
+        ["Did ... use to ...?", "Question", "Did you use to play soccer?"]
+      ]
+    },
+    "examples": [
+      { "en": "He used to ride a bike to school." },
+      { "en": "Did they use to live near the beach?" }
+    ]
+  },
+  {
+    "theme": "Modal Verbs: may, might, could for possibility; must for deduction",
+    "category": "B1",
+    "description": "Modal verbs 'may', 'might', and 'could' express possibility, while 'must' is used for logical deductions based on evidence. They are followed by a base verb. No major exceptions, but 'might' suggests less certainty than 'may', and 'must’ for deduction is distinct from its use for obligation.",
+    "table": {
+      "headers": ["Modal", "Use", "Example"],
+      "rows": [
+        ["may", "Possibility", "It may rain this afternoon."],
+        ["might", "Lower possibility", "She might come to the party."],
+        ["could", "Possibility", "He could be at home now."],
+        ["must", "Logical deduction", "She must be tired after the trip."]
+      ]
+    },
+    "examples": [
+      { "en": "They may arrive late due to traffic." },
+      { "en": "He must be the new teacher; he’s carrying books." }
+    ]
+  },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    {
+    "theme": "All Tenses: Including Future Continuous and Future Perfect",
+    "category": "B2",
+    "description": "At this level, students should have a solid understanding of all 12 English tenses. The Future Continuous is used for actions that will be in progress at a specific time in the future, formed with 'will be' + verb-ing. The Future Perfect is used for actions that will be completed before a specific time in the future, formed with 'will have' + past participle. Exceptions: Stative verbs (e.g., know, believe, own) are not typically used in continuous forms, including Future Continuous, as they describe states rather than actions.",
+    "table": {
+      "headers": ["Tense", "Structure", "Example"],
+      "rows": [
+        ["Future Continuous", "will be + verb-ing", "At 10 AM tomorrow, I will be working."],
+        ["Future Perfect", "will have + past participle", "By next year, I will have finished my degree."]
+      ]
+    },
+    "examples": [
+      { "en": "This time next week, we will be lying on the beach." },
+      { "en": "By the time he arrives, we will have eaten dinner." }
+    ]
+  },
+  {
+    "theme": "Third Conditional: For unreal past situations",
+    "category": "B2",
+    "description": "The Third Conditional describes hypothetical situations in the past that did not happen and their imagined results. The structure is 'If + Past Perfect, would have + past participle'. It is always about an unchangeable past. There are no common exceptions, but contractions (e.g., 'would’ve') are frequent in informal speech. 'Could have' or 'might have' can replace 'would have' to indicate possibility or ability.",
+    "table": null,
+    "examples": [
+      { "en": "If I had known you were coming, I would have baked a cake." },
+      { "en": "She wouldn't have been late if she hadn't missed the bus." }
+    ]
+  },
+  {
+    "theme": "Mixed Conditionals",
+    "category": "B2",
+    "description": "Mixed Conditionals combine different conditional structures to show relationships between past, present, or future hypothetical situations. Common types include: 1) Past condition affecting the present (If + Past Perfect, would + base verb), and 2) Present condition affecting the past (If + Past Simple, would have + past participle). No major exceptions, but context determines the choice of structure, and 'could' or 'might' may replace 'would' for nuance.",
+    "table": {
+      "headers": ["Type", "Structure", "Example"],
+      "rows": [
+        ["Past affecting Present", "If + Past Perfect, would + base verb", "If she had studied harder, she would be a doctor now."],
+        ["Present affecting Past", "If + Past Simple, would have + past participle", "If I weren’t so tired, I would have finished the project yesterday."]
+      ]
+    },
+    "examples": [
+      { "en": "If I had saved more money, I would live more comfortably now." },
+      { "en": "If he were more responsible, he wouldn’t have lost his job." }
+    ]
+  },
+  {
+    "theme": "Modal Verbs in the Past",
+    "category": "B2",
+    "description": "Modal verbs in the past express speculation, obligation, or possibility about past events. Common structures include 'must have + past participle' (logical conclusion), 'should have + past participle' (regret or advice), 'could have + past participle' (past possibility), and 'might have + past participle' (uncertain possibility). No exceptions, but the context determines the modal used.",
+    "table": {
+      "headers": ["Modal", "Use", "Example"],
+      "rows": [
+        ["must have", "Logical conclusion", "He must have forgotten the meeting."],
+        ["should have", "Regret or advice", "You should have called earlier."],
+        ["could have", "Past possibility", "She could have won the race."],
+        ["might have", "Uncertain possibility", "They might have missed the train."]
+      ]
+    },
+    "examples": [
+      { "en": "She must have been exhausted after the marathon." },
+      { "en": "I could have helped if you had asked me." }
+    ]
+  },
+  {
+    "theme": "Advanced Passive Voice",
+    "category": "B2",
+    "description": "The passive voice shifts focus to the action or object rather than the subject. It is formed with 'be' + past participle, and with modal verbs, it becomes 'modal + be + past participle'. It can be used in all tenses. Exceptions: Intransitive verbs (e.g., arrive, die) cannot be used in the passive voice, as they lack a direct object.",
+    "table": {
+      "headers": ["Tense/Modal", "Structure", "Example"],
+      "rows": [
+        ["Present Simple Passive", "am/is/are + past participle", "The room is cleaned daily."],
+        ["Past Simple Passive", "was/were + past participle", "The book was read by the class."],
+        ["Modal Passive", "modal + be + past participle", "The project must be completed by Friday."]
+      ]
+    },
+    "examples": [
+      { "en": "The house was being renovated when we visited." },
+      { "en": "This task should be finished before the deadline." }
+    ]
+  },
+  {
+    "theme": "Reported Speech: All tenses and question types",
+    "category": "B2",
+    "description": "Reported Speech conveys what someone said without quoting directly. Verbs typically shift back one tense (e.g., Present Simple to Past Simple). Questions change word order to statement form, and modals like 'will' become 'would'. Exceptions: If the reporting verb is in the present (e.g., 'She says'), tenses do not change. Time expressions (e.g., 'today') also shift (e.g., 'that day').",
+    "table": {
+      "headers": ["Direct Speech", "Reported Speech", "Notes"],
+      "rows": [
+        ["Present Simple: 'I love coffee.'", "'She said she loved coffee.'", "Tense shifts back."],
+        ["Will: 'I will call you.'", "'He said he would call me.'", "Modal changes."],
+        ["Question: 'Where are you?'", "'She asked where I was.'", "Word order changes."]
+      ]
+    },
+    "examples": [
+      { "en": "He asked me if I had seen the movie." },
+      { "en": "She says she is coming to the party." }
+    ]
+  },
+  {
+    "theme": "Complex Connectors",
+    "category": "B2",
+    "description": "Complex connectors link ideas in sophisticated ways. 'Although' and 'despite/in spite of' show contrast; 'in order to' shows purpose. 'Despite' and 'in spite of' are followed by a noun or gerund, not a clause, unlike 'although'. No major exceptions, but formal contexts may prefer 'despite' over 'in spite of'.",
+    "table": {
+      "headers": ["Connector", "Use", "Example"],
+      "rows": [
+        ["although", "Contrast (clause)", "Although it was raining, we went hiking."],
+        ["despite/in spite of", "Contrast (noun/gerund)", "Despite the rain, we went hiking."],
+        ["in order to", "Purpose", "She studied hard in order to pass the exam."]
+      ]
+    },
+    "examples": [
+      { "en": "In spite of feeling tired, he finished the project." },
+      { "en": "She left early in order to catch the train." }
+    ]
+  },
+  {
+    "theme": "Relative Clauses: Non-defining",
+    "category": "B2",
+    "description": "Non-defining relative clauses provide extra, non-essential information about a noun, set off by commas. They use relative pronouns like 'who', 'which', or 'whose'. They cannot use 'that' as a relative pronoun, and the pronoun cannot be omitted. The clause does not change the meaning of the main sentence.",
+    "table": {
+      "headers": ["Pronoun", "Use", "Example"],
+      "rows": [
+        ["who", "Refers to people", "My teacher, who is very kind, explained it."],
+        ["which", "Refers to things/animals", "The car, which is new, broke down."],
+        ["whose", "Possession", "John, whose house is nearby, invited us."]
+      ]
+    },
+    "examples": [
+      { "en": "Her brother, who lives in Paris, is visiting us." },
+      { "en": "The museum, which we visited, was fascinating." }
+    ]
+  },
+  {
+    "theme": "Gerunds and Infinitives: Advanced rules",
+    "category": "B2",
+    "description": "Gerunds (verb-ing) act as nouns, while infinitives (to + verb) often indicate purpose or result. Some verbs take only gerunds (e.g., enjoy, avoid), others only infinitives (e.g., want, refuse), and some take both with different meanings (e.g., stop, remember). Exceptions: Verbs like 'like', 'love', or 'hate' can take either with little difference in meaning in informal contexts.",
+    "table": {
+      "headers": ["Verb", "Form", "Example"],
+      "rows": [
+        ["enjoy", "Gerund", "I enjoy swimming."],
+        ["want", "Infinitive", "I want to swim."],
+        ["stop", "Gerund vs Infinitive", "I stopped smoking (quit) vs I stopped to smoke (paused to do it)."]
+      ]
+    },
+    "examples": [
+      { "en": "She avoided talking to him after the argument." },
+      { "en": "I forgot to lock the door, but I remember locking it yesterday." }
+    ]
+  },
+  {
+    "theme": "Inversion: For emphasis",
+    "category": "B2",
+    "description": "Inversion reverses the subject-verb order for emphasis, often with negative or restrictive expressions like 'not only', 'never', or 'hardly'. Common structures include 'Not only + verb + subject' and 'Never have I + verb'. No major exceptions, but it is formal and less common in spoken English.",
+    "table": {
+      "headers": ["Expression", "Structure", "Example"],
+      "rows": [
+        ["Not only", "Not only + verb + subject", "Not only did she win, but she also set a record."],
+        ["Never", "Never + auxiliary + subject + verb", "Never have I seen such a view."]
+      ]
+    },
+    "examples": [
+      { "en": "Hardly had I arrived when the meeting started." },
+      { "en": "Not only is he talented, but he is also kind." }
+    ]
+  },
+  {
+    "theme": "Phrasal Verbs",
+    "category": "B2",
+    "description": "Phrasal verbs are verbs combined with prepositions or adverbs, creating new meanings. They can be separable (object can go between verb and particle) or inseparable (object follows the particle). Context determines meaning, and some phrasal verbs have multiple meanings. No major exceptions, but learning them requires memorization due to their idiomatic nature.",
+    "table": {
+      "headers": ["Phrasal Verb", "Meaning", "Example"],
+      "rows": [
+        ["turn down", "Reject or reduce", "She turned down the offer."],
+        ["look after", "Take care of", "He looks after his younger sister."],
+        ["run into", "Meet by chance", "I ran into an old friend yesterday."]
+      ]
+    },
+    "examples": [
+      { "en": "I gave up smoking last year." },
+      { "en": "She broke down when she heard the news." }
+    ]
+  },
+    {
+    "theme": "Subjunctive Mood: Using 'wish' and 'if only'",
+    "category": "C1",
+    "description": "The subjunctive mood expresses hypothetical, unreal, or desired situations. With 'wish' and 'if only', it uses past tenses to describe present/future unreality (Past Simple or Past Continuous) or past regrets (Past Perfect). The verb 'were' is used for all subjects in formal English. Exceptions: In informal English, 'was' is often used instead of 'were' for first and third person singular.",
+    "table": {
+      "headers": ["Structure", "Use", "Example"],
+      "rows": [
+        ["wish/if only + Past Simple", "Present/future unreality", "I wish I were rich."],
+        ["wish/if only + Past Perfect", "Past regret", "If only I had studied harder."],
+        ["wish/if only + would + base verb", "Desire for change", "I wish she would call me."]
+      ]
+    },
+    "examples": [
+      { "en": "If only I were better at math, I could solve this." },
+      { "en": "I wish I hadn’t forgotten my lines during the play." }
+    ]
+  },
+  {
+    "theme": "Participle Clauses: For concise sentence structure",
+    "category": "C1",
+    "description": "Participle clauses use present participles (verb-ing) or past participles (verb-ed) to combine ideas concisely, often replacing relative or adverbial clauses. They describe simultaneous actions, causes, or results. Exceptions: Participle clauses cannot replace clauses where the subject differs unless explicitly stated (e.g., 'The weather being nice, we went out').",
+    "table": {
+      "headers": ["Type", "Structure", "Example"],
+      "rows": [
+        ["Present Participle", "verb-ing", "Seeing the rain, she took an umbrella."],
+        ["Past Participle", "verb-ed", "Exhausted by the hike, he rested."],
+        ["Perfect Participle", "having + past participle", "Having finished the book, I returned it."]
+      ]
+    },
+    "examples": [
+      { "en": "Walking home, I noticed the sunset." },
+      { "en": "Having been warned, she avoided the area." }
+    ]
+  },
+  {
+    "theme": "Emphatic Structures: Cleft sentences",
+    "category": "C1",
+    "description": "Cleft sentences emphasize a specific part of a sentence using structures like 'It is/was... that...' or 'What... is/was...'. They highlight the subject, object, or other elements for stylistic effect. No major exceptions, but they are more common in formal or written English.",
+    "table": {
+      "headers": ["Structure", "Use", "Example"],
+      "rows": [
+        ["It is/was + element + that", "Emphasize subject/object", "It was John that fixed the car."],
+        ["What + clause + is/was + element", "Emphasize action/reason", "What I need is more time."]
+      ]
+    },
+    "examples": [
+      { "en": "It was her smile that caught my attention." },
+      { "en": "What surprised me was his sudden departure." }
+    ]
+  },
+  {
+    "theme": "Inversion: In formal writing",
+    "category": "C1",
+    "description": "Inversion in formal writing reverses subject-verb order for emphasis, often with negative or restrictive adverbs (e.g., 'never', 'rarely', 'not until'). It is common in formal or literary contexts. No major exceptions, but overuse in informal speech can sound unnatural.",
+    "table": {
+      "headers": ["Adverb", "Structure", "Example"],
+      "rows": [
+        ["Never/Rarely", "Adverb + auxiliary + subject + verb", "Never have I seen such beauty."],
+        ["Not until", "Not until + clause + auxiliary + subject + verb", "Not until I arrived did I realize the mistake."]
+      ]
+    },
+    "examples": [
+      { "en": "Rarely does she miss a deadline." },
+      { "en": "Not only did they win, but they also broke the record." }
+    ]
+  },
+  {
+    "theme": "Ellipsis and Substitution: To avoid repetition",
+    "category": "C1",
+    "description": "Ellipsis omits words that are understood from context, while substitution replaces words with alternatives like 'do', 'so', or 'one' to avoid repetition. Exceptions: Ellipsis is avoided in formal writing if it risks ambiguity, and substitution is less common with complex structures.",
+    "table": {
+      "headers": ["Type", "Use", "Example"],
+      "rows": [
+        ["Ellipsis", "Omit understood words", "She can sing, and he can [sing] too."],
+        ["Substitution", "Replace with 'do/so/one'", "I like coffee, and so does she."]
+      ]
+    },
+    "examples": [
+      { "en": "I wanted to call, but I didn’t [call]." },
+      { "en": "He bought a red car, and I bought one too." }
+    ]
+  },
+  {
+    "theme": "Advanced Linking Words: hence, thereby, consequently",
+    "category": "C1",
+    "description": "Advanced linking words like 'hence', 'thereby', and 'consequently' connect ideas in formal writing. 'Hence' introduces a result, 'thereby' shows a means to an outcome, and 'consequently' indicates a logical outcome. No major exceptions, but they are formal and rare in casual speech.",
+    "table": {
+      "headers": ["Linking Word", "Use", "Example"],
+      "rows": [
+        ["hence", "Result", "It was raining; hence, we stayed inside."],
+        ["thereby", "Means to an outcome", "She worked hard, thereby earning a promotion."],
+        ["consequently", "Logical outcome", "He missed the deadline; consequently, he lost the contract."]
+      ]
+    },
+    "examples": [
+      { "en": "The road was blocked; hence, we took a detour." },
+      { "en": "She studied diligently, thereby passing the exam." }
+    ]
+  },
+  {
+    "theme": "Idiomatic Grammar: Understanding subtle nuances",
+    "category": "C1",
+    "description": "Idiomatic grammar involves structures that native speakers use naturally but may not follow standard rules. Examples include fixed expressions or patterns like 'had better', 'so... as to', or 'lest'. No major exceptions, but meanings are context-dependent and require familiarity with native usage.",
+    "table": {
+      "headers": ["Expression", "Use", "Example"],
+      "rows": [
+        ["had better", "Advice or warning", "You had better leave now."],
+        ["so... as to", "Result or extent", "It was so cold as to freeze the pipes."],
+        ["lest", "To prevent something", "She spoke quietly lest she wake the baby."]
+      ]
+    },
+    "examples": [
+      { "en": "You’d better hurry or you’ll miss the train." },
+      { "en": "He worked so hard as to exhaust himself." }
+    ]
+  },
+  {
+    "theme": "Nuances of Tense Usage: Using different tenses for stylistic effect",
+    "category": "C1",
+    "description": "Advanced tense usage involves choosing tenses for stylistic purposes, such as narrative effect or emphasis. For example, the present simple can be used in storytelling for vividness, or the present perfect can emphasize relevance. No major exceptions, but misuse can alter tone or clarity.",
+    "table": {
+      "headers": ["Tense", "Stylistic Use", "Example"],
+      "rows": [
+        ["Present Simple", "Narrative vividness", "He walks into the room and everyone stares."],
+        ["Present Perfect", "Emphasize relevance", "I have just finished writing this sentence."]
+      ]
+    },
+    "examples": [
+      { "en": "She opens the door, and there stands her old friend." },
+      { "en": "I have never seen such chaos as I have today." }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442240550183",
+    "project_id": "dealen-2d9e4",
+    "storage_bucket": "dealen-2d9e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442240550183:android:857ad533488d2366381502",
+        "android_client_info": {
+          "package_name": "com.dealen.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGvDkMh5zb4Z75SaSfE1Ex8CARI0JWXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

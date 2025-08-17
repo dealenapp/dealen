@@ -1,0 +1,2430 @@
+[
+    {
+      "title": "Неправильные (сильные) глаголы",
+      "type": "mixed",
+      "sections": [
+        {
+          "text": "Изменение корневой гласной (перегласовка – die Vokaländerung):\n1. a → ä\nZum Beispiele: fahren"
+        },
+        {
+          "table": [
+            ["ich", "fahr+e", "wir", "fahr+en"],
+            ["du", "fähr+st", "ihr", "fahr+t"],
+            ["er, sie, es", "fähr+t", "sie, Sie", "fahr+en"]
+          ]
+        },
+        {
+          "text": "Zum Beispiele: schlafen"
+        },
+        {
+          "table": [
+            ["ich", "schlaf+e", "wir", "schlaf+en"],
+            ["du", "schläf+st", "ihr", "schlaf+t"],
+            ["er, sie, es", "schläf+t", "sie, Sie", "schlaf+en"]
+          ]
+        },
+        {
+          "text": "2. e → i\nZum Beispiele: essen"
+        },
+        {
+          "table": [
+            ["ich", "ess+e", "wir", "ess+en"],
+            ["du", "iss+t", "ihr", "ess+t"],
+            ["er, sie, es", "iss+t", "sie, Sie", "ess+en"]
+          ]
+        },
+        {
+          "text": "Zum Beispiele: helfen"
+        },
+        {
+          "table": [
+            ["ich", "helf+e", "wir", "helf+en"],
+            ["du", "hilf+st", "ihr", "helf+t"],
+            ["er, sie, es", "hilf+t", "sie, Sie", "helf+en"]
+          ]
+        },
+        {
+          "text": "3. e → ie\nZum Beispiele: sehen"
+        },
+        {
+          "table": [
+            ["ich", "seh+e", "wir", "seh+en"],
+            ["du", "sieh+st", "ihr", "seh+t"],
+            ["er, sie, es", "sieh+t", "sie, Sie", "seh+en"]
+          ]
+        },
+        {
+          "text": "Zum Beispiele: lesen"
+        },
+        {
+          "table": [
+            ["ich", "les+e", "wir", "les+en"],
+            ["du", "lies+t", "ihr", "les+t"],
+            ["er, sie, es", "lies+t", "sie, Sie", "les+en"]
+          ]
+        }
+      ]
+    },
+
+
+
+    
+        {
+          "title": "Модальные глаголы",
+          "type": "mixed",
+          "sections": [
+            {
+              "text": "Müssen – быть должным, обязанным что-то сделать\nSollen – быть должным по мнению кого-либо"
+            },
+            {
+              "table": [
+                ["ich", "muss", "wir", "müssen"],
+                ["du", "musst", "ihr", "müsst"],
+                ["er, sie, es", "muss", "sie, Sie", "müssen"]
+              ]
+            },
+            {
+              "table": [
+                ["ich", "soll", "wir", "sollen"],
+                ["du", "sollst", "ihr", "sollt"],
+                ["er, sie, es", "soll", "sie, Sie", "sollen"]
+              ]
+            },
+            {
+              "text": "Können – мочь что-либо сделать\nDürfen – иметь разрешение на действие"
+            },
+            {
+              "table": [
+                ["ich", "kann", "wir", "können"],
+                ["du", "kannst", "ihr", "könnt"],
+                ["er, sie, es", "kann", "sie, Sie", "können"]
+              ]
+            },
+            {
+              "table": [
+                ["ich", "darf", "wir", "dürfen"],
+                ["du", "darfst", "ihr", "dürft"],
+                ["er, sie, es", "darf", "sie, Sie", "dürfen"]
+              ]
+            },
+            {
+              "text": "Wollen – изъявить желание, без побуждения\nMöchten – изъявить желание, с побуждением"
+            },
+            {
+              "table": [
+                ["ich", "will", "wir", "wollen"],
+                ["du", "willst", "ihr", "wollt"],
+                ["er, sie, es", "will", "sie, Sie", "wollen"]
+              ]
+            },
+            {
+              "table": [
+                ["ich", "möchte", "wir", "möchten"],
+                ["du", "möchtest", "ihr", "möchtet"],
+                ["er, sie, es", "möchte", "sie, Sie", "möchten"]
+              ]
+            }
+          ]
+        },
+
+
+        
+            {
+              "title": "Имена существительные",
+              "type": "mixed",
+              "sections": [
+                {
+                  "text": "1. Все имена существительные пишутся с большой буквы."
+                },
+                {
+                  "text": "2. Существует три рода существительных: мужской, женский, средний."
+                },
+                {
+                  "text": "3. Род передается артиклем. Существуют два типа артиклей: определённый и неопределённый."
+                },
+                {
+                  "text": "4. Образование множественного числа:\n– изменение корневой гласной;\n– добавление окончаний: -e, -er, -en."
+                }
+              ]
+            },
+            {
+              "title": "Артикли",
+              "type": "mixed",
+              "sections": [
+                {
+                  "text": "Определённые и неопределённые артикли:"
+                },
+                {
+                  "table": [
+                    ["", "Неопределённые", "Определённые"],
+                    ["das Maskulinum", "ein", "der"],
+                    ["das Femininum", "eine", "die"],
+                    ["das Neutrum", "ein", "das"],
+                    ["der Plural", "", "die"]
+                  ]
+                },
+                {
+                  "text": "Употребление неопределённого артикля:\n• Первое упоминание предмета;\n• Описание любого неопределённого предмета;\n• Сравнительный оборот."
+                },
+                {
+                  "text": "Употребление определённого артикля:\n• Повторное упоминание предмета;\n• Конкретные предметы в ситуации;\n• Упоминание единственного предмета в мире (планеты, части света и т.д.)."
+                },
+                {
+                  "text": "Нулевой артикль:\n• Упоминание неконкретных людей, предметов;\n• Имена собственные;\n• Неисчисляемые имена существительные (материалы, абстрактные понятия)."
+                }
+              ]
+            },
+            {
+              "title": "Падежи и предлоги",
+              "type": "mixed",
+              "sections": [
+                {
+                  "text": "Склонение существительных с определённым артиклем:"
+                },
+                {
+                  "table": [
+                    ["Падеж", "Вопросы", "М", "F", "N", "Plural"],
+                    ["Nominativ", "Wer? Was?", "der", "die", "das", "die"],
+                    ["Akkusativ", "Wen? Was?", "den", "die", "das", "die"],
+                    ["Dativ", "Wem?", "dem", "der", "dem", "den +n"]
+                  ]
+                },
+                {
+                  "text": "+ Genetiv (используется крайне редко)"
+                },
+                {
+                  "text": "Склонение с неопределённым артиклем:"
+                },
+                {
+                  "table": [
+                    ["Падеж", "Вопросы", "М", "F", "N", "Plural"],
+                    ["Nominativ", "Wer? Was?", "ein", "eine", "ein", "—"],
+                    ["Akkusativ", "Wen? Was?", "einen", "eine", "ein", "—"],
+                    ["Dativ", "Wem?", "einem", "einer", "einem", "+n"]
+                  ]
+                },
+                {
+                  "text": "+ Genetiv (используется крайне редко)"
+                },
+                {
+                  "text": "Фиксированные предлоги:\n+ **Akkusativ**:\n– bis (до);\n– durch (по, через);\n– für (для);\n– gegen (против);\n– ohne (без);\n– um (вокруг).\n\n+ **Dativ**:\n– aus (из);\n– bei (у);\n– mit (с);\n– nach (после);\n– von (от);\n– zu (к).\n\n+ **Akk. (Wohin?) / Dativ (Wo?)**:\n– an, auf, hinter, in, neben, über, vor, zwischen."
+                }
+              ]
+            },
+
+
+
+            {
+                "title": "Фиксированные предлоги и падежи",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Фиксированные предлоги, требующие склонения слова в определённом падеже:"
+                  },
+                  {
+                    "table": [
+                      ["+Akkusativ", "+Dativ", "+Akk. (Wohin?) / +Dativ (Wo?)"]
+                    ]
+                  },
+                  {
+                    "table": [
+                      ["bis (до)", "aus (из чего-то, из-за чего-то)", "an"],
+                      ["durch (по, через)", "bei (у, под – локально)", "auf"],
+                      ["für (для кого-то)", "mit (с чем-то, с помощью чего-то)", "hinter"],
+                      ["gegen (против, около)", "nach (после – темпорально)", "in"],
+                      ["ohne (без чего-то)", "von (от кого-то, чего-то)", "neben"],
+                      ["um (вокруг чего-то)", "zu (к – локально)", "über"],
+                      ["", "", "vor"],
+                      ["", "", "zwischen"]
+                    ]
+                  }
+                ]
+              },
+
+              {
+                "title": "Определение рода имени существительного",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Das Maskulinum: Существительные мужского рода"
+                  },
+                  {
+                    "text": "Слова с суффиксами: -er, -ling (например: der Lehrer, der Feigling)"
+                  },
+                  {
+                    "text": "Профессии с суффиксами: -ant, -ent, -ist, -loge, -eur, -är, -or (например: der Laborant, der Student, der Polizist, der Geologe, der Ingenieur, der Funktionär, der Doktor)"
+                  },
+                  {
+                    "text": "Производные от глаголов: gehen → der Gang, springen → der Sprung, laufen → der Lauf"
+                  },
+                  {
+                    "text": "Название времен года: der Winter, der Frühling, der Sommer, der Herbst, но das Jahr"
+                  },
+                  {
+                    "text": "Название месяцев: der Monat, der Januar, der Februar, der März, der April, der Mai, der Juni, der Juli, der August, der September, der Oktober, der November, der Dezember"
+                  },
+                  {
+                    "text": "Название дней недели: der Montag, der Dienstag, der Mittwoch, der Donnerstag, der Freitag, der Samstag (Sonnabend), der Sonntag, но die Woche"
+                  },
+                  {
+                    "text": "Названия частей суток: der Morgen, der Tag, der Mittag, der Abend, но die Nacht"
+                  },
+                  {
+                    "text": "Слова, оканчивающиеся на: -ig, -ing, -ismus, -ich, -us (например: der Honig, der Säugling, der Kapitalismus, der Teppich, der Globus)"
+                  },
+                  {
+                    "text": "Das Femininum: Существительные женского рода"
+                  },
+                  {
+                    "text": "Слова с суффиксом -in (например: die Lehrerin, die Kellnerin, die Ärztin)"
+                  },
+                  {
+                    "text": "Слова, оканчивающиеся на -e, не обозначающие лиц мужского пола (например: die Karte, die Tanne, die Erde, die Woche, die Wolke, но der Junge)"
+                  },
+                  {
+                    "text": "Субстантивированные имена числительные (например: die Fünf, die Tausend, die Million, die Milliarde)"
+                  },
+                  {
+                    "text": "Названия деревьев и цветов (например: die Tanne, die Aster, die Birke, die Linde, die Eiche, die Zypresse, die Nelke, die Kamille, но der Ahorn, der Apfel, der Pfirsich, das Veilchen)"
+                  },
+                  {
+                    "text": "Названия рек (например: die Oder, die Elbe, но der Neckar, der Rhein, der Main)"
+                  },
+                  {
+                    "text": "Слова, оканчивающиеся на: -heit, -ung, -keit, -ei, -schaft, -tion, -tät, -ik, -ur (например: die Freiheit, die Übung, die Dankbarkeit, die Prügelei, die Stadion, die Universität, die Musik, die Kultur)"
+                  },
+                  {
+                    "text": "Das Neutrum: Существительные среднего рода"
+                  },
+                  {
+                    "text": "Слова с уменьшительными суффиксами: -lein, -chen (например: das Mädchen, das Büchlein, das Tischlein)"
+                  },
+                  {
+                    "text": "Существительные, начинающиеся на Ge- (например: das Gebirge, das Gewitter, das Gewissen)"
+                  },
+                  {
+                    "text": "Субстантивированные глаголы, обозначающие сам процесс (например: lesen → das Lesen, hören → das Hören, schreiben → das Schreiben, laufen → das Laufen)"
+                  },
+                  {
+                    "text": "Название кафе, кино, гостиниц (например: das Hotel, das Kino, das Cafe)"
+                  },
+                  {
+                    "text": "Название металлов и химических элементов (например: das Gold, das Silber, das Eisen, das Kupfer)"
+                  },
+                  {
+                    "text": "Обозначения цвета, названия языков, букв, нот, физических единиц (например: das Rot, das Grün, das Russisch, das Deutsch, das Zet, das A, das Kilowatt)"
+                  },
+                  {
+                    "text": "Название континентов, стран, городов (например: das große Deutschland)"
+                  },
+                  {
+                    "text": "Слова, оканчивающиеся на: -um, -tel (например: das Zentrum, das Drittel)"
+                  },
+                  {
+                    "text": "Неодушевленные существительные с суффиксами: -ent, -at (например: das Plakat, das Dokument, das Parlament)"
+                  }
+                ]
+              },
+
+
+              {
+                "title": "Множественное число имени существительного",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Изменяется только артикль у имен существительных мужского и среднего рода, оканчивающихся на -en, -el, -er:"
+                  },
+                  {
+                    "text": "Примеры: der Lehrer → die Lehrer, der Sessel → die Sessel, но der Garten → die Gärten"
+                  },
+                  {
+                    "text": "Изменяется только артикль у имен существительных среднего рода, оканчивающихся на -chen, -lein:"
+                  },
+                  {
+                    "text": "Пример: das Mädchen → die Mädchen"
+                  },
+                  {
+                    "text": "Большинство существительных мужского и среднего рода получают окончания -e, -er:"
+                  },
+                  {
+                    "text": "Примеры: der Monat → die Monate, das Kind → die Kinder"
+                  },
+                  {
+                    "text": "Некоторые слова изменяют гласные в корне (a → ä, o → ö, u → ü) и добавляют окончание:"
+                  },
+                  {
+                    "text": "Примеры: das Buch → die Bücher, der Sohn → die Söhne, die Nacht → die Nächte"
+                  },
+                  {
+                    "text": "Добавляется окончание -e в односложных словах женского рода:"
+                  },
+                  {
+                    "text": "Примеры: die Hand → die Hände, die Wand → die Wände"
+                  },
+                  {
+                    "text": "Добавляется окончание -en в двусложных словах женского рода и словах с типичными окончаниями женского рода:"
+                  },
+                  {
+                    "text": "Примеры: die Frau → die Frauen, die Übung → die Übungen"
+                  },
+                  {
+                    "text": "Добавляется окончание -nen в названиях профессий женского рода:"
+                  },
+                  {
+                    "text": "Примеры: die Ärztin → die Ärztinnen, die Lehrerin → die Lehrerinnen"
+                  },
+                  {
+                    "text": "Существительные, заимствованные из языка французского или английского, часто не изменяются или изменяются по стандартным правилам для множественного числа:"
+                  },
+                  {
+                    "text": "Примеры: der Park → die Parks, das Hotel → die Hotels, das Taxi → die Taxis"
+                  }
+                ]
+              },
+              
+              {
+                "title": "Повествовательные предложения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Грамматическая основа – подлежащие и сказуемое."
+                  },
+                  {
+                    "text": "Подлежащее выражено чаще всего именем существительным или местоимением."
+                  },
+                  {
+                    "text": "Позиции в предложении определяются задаваемым вопросом."
+                  },
+                  {
+                    "text": "Подлежащее не всегда стоит в начале предложения, но глагол – всегда на второй позиции."
+                  },
+                  {
+                    "text": "Второй глагол, отделяемая приставка или прилагательное в связке с глаголом sein находятся в конце предложения."
+                  },
+                  {
+                    "text": "Место расположения Akkusativ- и Dativ-объектов обусловлено тем, какой частью речи они выражены (именем существительным или местоимением)."
+                  },
+                  {
+                    "text": "Предложения с двумя глаголами:"
+                  },
+                  {
+                    "examples": [
+                      "Ich will ins Kino gehen.",
+                      "Er muss viel arbeiten."
+                    ]
+                  },
+                  {
+                    "text": "Предложения с глаголами, у которых отделяемые приставки:"
+                  },
+                  {
+                    "examples": [
+                      "Ich lade meine Freunde ein."
+                    ]
+                  },
+                  {
+                    "text": "Предложения со сложными глаголами, состоящими из двух и более слов:"
+                  },
+                  {
+                    "examples": [
+                      "Ich gehe spazieren.",
+                      "Ich fahre essen."
+                    ]
+                  },
+                  {
+                    "text": "Предложения с именем прилагательным в связке с глаголом sein:"
+                  },
+                  {
+                    "examples": [
+                      "Heute ist das Wetter schön.",
+                      "Das Buch ist sehr interessant."
+                    ]
+                  },
+                  {
+                    "text": "Предложения с глаголом в связке с именем существительным:"
+                  },
+                  {
+                    "examples": [
+                      "Ich spiele mit meinem Freunden Tennis.",
+                      "Ich trinke heute mit meiner Familie Wein."
+                    ]
+                  },
+                  {
+                    "text": "Предложения с Akkusativ- и Dativ-объектами:"
+                  },
+                  {
+                    "examples": [
+                      "Ich schenke dem Freund ein Buch.",
+                      "Ich schenke es ihm.",
+                      "Ich schenke es den Freund.",
+                      "Ich schenke ihm das Buch."
+                    ]
+                  }
+                ]
+              },
+
+              {
+                "title": "Вопросительные предложения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Общие вопросы (Ja-/Nein-Fragen): Глагол со второй позиции повествовательного предложения идет на первую позицию."
+                  },
+                  {
+                    "examples": [
+                      "Sprichst du kein Russisch? – Doch!",
+                      "Lernst du Deutsch? – Ja, ich lerne Deutsch."
+                    ]
+                  },
+                  {
+                    "text": "Специальные вопросы (W-Fragen): Вопросительное слово стоит в начале предложения, а глагол на второй позиции."
+                  },
+                  {
+                    "table": [
+                      ["Russisch", "Deutsch", "Beispiel"],
+                      ["Что?", "Was?", "Was trinkst du?"],
+                      ["Где?", "Wo?", "Wo bist du?"],
+                      ["Когда?", "Wann?", "Wann kommt er?"],
+                      ["Кто?", "Wer?", "Wer bist du?"],
+                      ["Кого?", "Wen?", "Wen sehe ich?"],
+                      ["Кому?", "Wem?", "Wem hilfst du?"],
+                      ["Куда?", "Wohin?", "Wohin gehst du?"],
+                      ["Откуда?", "Woher?", "Woher kommst du?"],
+                      ["Как?", "Wie?", "Wie geht es dir?"],
+                      ["Почему?", "Warum?", "Warum lernst du Deutsch?"],
+                      ["Сколько?", "Wie viel?", "Wie viel Zeit hast du?"],
+                      ["Чей?", "Wessen?", "Wessen Buch ist das?"],
+                      ["Какой?", "Welch?", "Welchen Tee magst du?"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Отрицательные предложения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Kein – отрицание с именами существительными, при этом отрицается все предложение."
+                  },
+                  {
+                    "table": [
+                      ["Падеж", "Вопросы", "М", "F", "N", "Plural"],
+                      ["Nominativ", "Wer? Was?", "kein", "kein", "keine", "keine"],
+                      ["Genetiv", "Wessen?", "keines", "keiner", "keines", "keiner"],
+                      ["Dativ", "Wem?", "keinem", "keiner", "keinem", "keinen"],
+                      ["Akkusativ", "Wen? Was?", "keinen", "keine", "kein", "keine"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Das ist ein Buch. → Das ist kein Buch.",
+                      "Ich sehe einen Hund. → Ich sehe keinen Hund."
+                    ]
+                  },
+                  {
+                    "text": "Nicht – отрицание общего характера. Позиции частицы nicht:"
+                  },
+                  {
+                    "text": "1. Перед прилагательным или наречием."
+                  },
+                  {
+                    "examples": ["Das ist nicht lustig."]
+                  },
+                  {
+                    "text": "2. Перед предлогом."
+                  },
+                  {
+                    "examples": ["Er kommt nicht aus Deutschland."]
+                  },
+                  {
+                    "text": "3. Перед вторым глаголом."
+                  },
+                  {
+                    "examples": ["Ich kann heute nicht kommen."]
+                  },
+                  {
+                    "text": "4. Перед определенным артиклем или притяжательным местоимением."
+                  },
+                  {
+                    "examples": ["Ich sehe nicht den Hund."]
+                  },
+                  {
+                    "text": "5. В конце предложения (при отсутствии пунктов 1-4)."
+                  },
+                  {
+                    "examples": ["Ich arbeite heute Nachmittag nicht."]
+                  },
+                  {
+                    "text": "Отрицательные слова (кроме nicht и kein):"
+                  },
+                  {
+                    "examples": [
+                      "immer → nie: Ich mache das immer. → Ich mache das nie.",
+                      "alle → niemand: Ich kenne alle. → Ich kenne niemand.",
+                      "etwas → nichts: Hast du etwas? – Ich habe nichts.",
+                      "mit → ohne: Trinkst du Tee mit Zucker? – Nein, ohne Zucker.",
+                      "schon → noch nicht (с иными частями речи): Sprichst du schon fließend Deutsch? – Nein, ich spreche noch nicht fließend Deutsch.",
+                      "noch → nicht mehr (с существительными): Hast du noch Geld? – Nein, ich habe kein Geld mehr."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Сочинительные и подчинительные союзы и союзные слова",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "table": [
+                      ["Сочинительные союзы", "Подчинительные союзы", "Союзные слова"],
+                      ["Aber (но)", "Weil (так как)", "Deswegen (поэтому)"],
+                      ["Und (и)", "Wenn (когда, если)", "Dann (затем)"],
+                      ["Denn (так как)", "Dass (что)", "Jedoch (однако)"],
+                      ["Oder (или)", "", "Sonst (а не то)"],
+                      ["Sondern (используется для противопоставлений)", "", ""]
+                    ]
+                  },
+                  {
+                    "text": "Сочинительные союзы: 1. Соединяют два равноправных предложения; 2. Занимают нулевую позицию в предложении."
+                  },
+                  {
+                    "examples": [
+                      "Ich lerne Deutsch und er lernt Spanisch.",
+                      "Ich spreche Deutsch aber er versteht es nicht.",
+                      "Ich gehe ins Kino oder ich bleibe zu Hause.",
+                      "Sie machen keinen Sport, sondern sie spielen Computerspiele.",
+                      "Wir bleiben heute zu Hause, dann es regnet."
+                    ]
+                  },
+                  {
+                    "text": "Подчинительные союзы: 1. Присоединяют придаточное предложение к главному; 2. Глагол уходит в конец придаточного предложения."
+                  },
+                  {
+                    "examples": [
+                      "Ich muss viel lernen, weil ich bald eine Prüfung habe.",
+                      "Er lernt Deutsch, wenn er gute Laune hat.",
+                      "Sie sagt oft, dass sie später kommt.",
+                      "Weil ich bald eine Prüfung habe, muss ich viel lernen.",
+                      "Wenn er gute Laune hat, lernt er Deutsch.",
+                      "Dass sie später kommt, sagt sie oft."
+                    ]
+                  },
+                  {
+                    "text": "Союзные слова: 1. Не требуют перестановки глаголов, т.е. глагол стоит сразу после союзного слова; 2. Союзные слова всегда относятся к чему-то вышесказанному."
+                  },
+                  {
+                    "examples": [
+                      "Ich habe gute Laune, deswegen lerne ich Deutsch.",
+                      "Das Wetter ist gut, jedoch bleibe ich zu Hause."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Притяжательные местоимения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Местоимения, обозначающие принадлежность, называются притяжательными (Possessivartikel)."
+                  },
+                  {
+                    "table": [
+                      ["", "", ""],
+                      ["ich", "mein", "мой"],
+                      ["du", "dein", "твой"],
+                      ["er", "sein", "его"],
+                      ["sie", "ihr", "её"],
+                      ["es", "sein", "его"],
+                      ["wir", "unser", "наш"],
+                      ["ihr", "euer", "ваш"],
+                      ["sie, Sie", "Ihr, ihr", "Ваш, их"]
+                    ]
+                  },
+                  {
+                    "text": "Притяжательное местоимение согласуется с именем существительным в роде, числе и падеже; Все притяжательные артикли склоняются, как неопределенный артикль."
+                  },
+                  {
+                    "examples": [
+                      "Ich sehe meinen Freund.",
+                      "Das ist sein Tisch.",
+                      "Wir lesen ihre Zeitung.",
+                      "Sie schenken unserem Freund ein Büchlein."
+                    ]
+                  },
+                  {
+                    "text": "Erste Punkt: Ich → mein; Zweite Punkt: der Freund → M; Dritte Punkt: sehen + Akk.; Vierte Punkt: mein+en."
+                  },
+                  {
+                    "text": "В случае отрицания используем частицу nicht."
+                  }
+                ]
+              },
+              {
+                "title": "Вопросительные и указательные местоимения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Вопросительные и указательные местоимения склоняются, как определенный артикль. Welche – вопросительное местоимение. Dieser – указательное местоимение."
+                  },
+                  {
+                    "examples": [
+                      "Welcher Mann? – Dieser Mann.",
+                      "Welches Buch? – Dieses Buch.",
+                      "Welche Frau? – Diese Frau.",
+                      "Welche Kinder? – Diese Kinder.",
+                      "Welches Buch du siehst? – Ich sehe dieses Buch.",
+                      "Welchem Freund hilfst du?"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Склонение личных местоимений",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "table": [
+                      ["Nominativ", "Genetiv", "Dativ", "Akkusativ"],
+                      ["Ich", "meiner", "mir", "mich"],
+                      ["Du", "deiner", "dir", "dich"],
+                      ["Er", "seiner", "ihm", "ihn"],
+                      ["Sie", "ihrer", "ihr", "ihr"],
+                      ["Es", "seiner", "ihm", "ihm"],
+                      ["wir", "unser", "uns", "uns"],
+                      ["Ihr", "eurer", "euch", "euch"],
+                      ["sie, Sie", "Ihrer, ihrer", "Ihnen, ihnen", "sie, Sie"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Er liebt dich.",
+                      "Sie fragt mich.",
+                      "Ich helfe dir.",
+                      "Sie sagt euch etwas."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Возвратные глаголы",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Возвратные глаголы – глаголы с частичкой «ся», которую можно заменить возвратным местоимением «себя» (Akkusativ) или «себе» (Dativ)."
+                  },
+                  {
+                    "text": "Возвратные глаголы с винительным падежом:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "mich", "wir", "uns"],
+                      ["du", "dich", "ihr", "euch"],
+                      ["er, sie, es", "sich", "sie, Sie", "sich"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Ich freue mich.",
+                      "Ich wasche mich.",
+                      "Ich rasiere mich.",
+                      "Ich anziehe mich.",
+                      "Ich ärgere mich. (ärgern)",
+                      "Du interessierest dich.",
+                      "Er wundert sich.",
+                      "Sie verliebt sich."
+                    ]
+                  },
+                  {
+                    "text": "Но: sich erholen – отдыхать; sich verspäten – опаздывать; sich erinnern – вспоминать; смеяться – lachen; светиться – scheinen."
+                  },
+                  {
+                    "text": "Возвратные глаголы с дательным падежом:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "mir", "wir", "uns"],
+                      ["du", "dir", "ihr", "euch"],
+                      ["er, sie, es", "sich", "sie, Sie", "sich"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Ich wasche mir die Hände.",
+                      "Ich stelle mir etwas vor.",
+                      "Ich sehe mir den Film an.",
+                      "Ich merke mir das Gedicht."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Неопределенное личное местоимение",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "man – неопределенное личное местоимение."
+                  },
+                  {
+                    "examples": [
+                      "In der Schweiz spricht man Deutsch.",
+                      "In China isst man viel Reis.",
+                      "Wenn man viel Süßigkeiten isst, wird man dick."
+                    ]
+                  },
+                  {
+                    "text": "man участвует в построении устойчивых сочетаний с модальными глаголами."
+                  },
+                  {
+                    "examples": [
+                      "Man darf hier nicht schwimmen.",
+                      "Man kann hier parken.",
+                      "Man muss viel lernen.",
+                      "Man soll die Hausaufgaben machen."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Глаголы с отделяемыми приставками",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Группы приставок по признаку отделения от основы глагола:"
+                  },
+                  {
+                    "text": "Отделяются: ab-, an-, auf-, aus-, bei-, ein-, fern-, fest-, her-, hin-, los-, mit-, nach-, teil-, vor-, vorbei-, weg-, weiter-, zu-, zurück-, zusammen-."
+                  },
+                  {
+                    "text": "Не отделяются: be-, ge-, er-, ent-, miß-, emp-, hinter-, ver-, zer-."
+                  },
+                  {
+                    "text": "Могут отделяться или не отделяться: durch-, über-, um-, unter-, wider-, wieder-."
+                  },
+                  {
+                    "text": "При одном глаголе: приставка находится в конце предложения."
+                  },
+                  {
+                    "examples": [
+                      "Ich stehe früh auf.",
+                      "Ich verstehe alles."
+                    ]
+                  },
+                  {
+                    "text": "При нескольких глаголах: глагол с приставкой находится в конце предложения в виде инфинитива."
+                  },
+                  {
+                    "examples": [
+                      "Ich muss früh aufstehen.",
+                      "Ich muss alles verstehen."
+                    ]
+                  },
+                  {
+                    "text": "При подчинительных союзах: глагол с приставкой находится в конце предложения, сохраняя спряжение."
+                  },
+                  {
+                    "examples": [
+                      "Es ist gut, wenn ich früh aufstehe.",
+                      "Es ist gut, wenn ich alles verstehe."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Прошедшее время на письме и в речи",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Präteritum – прошедшее время на письме."
+                  },
+                  {
+                    "text": "Спряжение правильного глагола spielen:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "spiel+t+e", "wir", "spiel+t+en"],
+                      ["du", "spiel+t+est", "ihr", "spiel+te+t"],
+                      ["er, sie, es", "spiel+t+e", "sie, Sie", "spiel+t+en"]
+                    ]
+                  },
+                  {
+                    "text": "Спряжение неправильного глагола kommen:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "kam", "wir", "kam+en"],
+                      ["du", "kam+st", "ihr", "kam+t"],
+                      ["er, sie, es", "kam", "sie, Sie", "kam+en"]
+                    ]
+                  },
+                  {
+                    "text": "Спряжение модального глагола müssen:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "muss+t+e", "wir", "muss+t+en"],
+                      ["du", "muss+t+est", "ihr", "muss+t+et"],
+                      ["er, sie, es", "muss+t+e", "sie, Sie", "muss+t+en"]
+                    ]
+                  },
+                  {
+                    "text": "Спряжение модального глагола können:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "konn+t+e", "wir", "konn+t+en"],
+                      ["du", "konn+t+est", "ihr", "konn+t+et"],
+                      ["er, sie, es", "konn+t+e", "sie, Sie", "konn+t+en"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Ich möchte trinken (Präsens). → Ich wollte trinken (Präteritum)."
+                    ]
+                  },
+                  {
+                    "text": "Спряжение глагола sein:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "war", "wir", "waren"],
+                      ["du", "warst", "ihr", "wart"],
+                      ["er, sie, es", "war", "sie, Sie", "waren"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Wir waren letzte Woche in Wien."
+                    ]
+                  },
+                  {
+                    "text": "Спряжение глагола haben:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "hatte", "wir", "hatten"],
+                      ["du", "hattest", "ihr", "hattet"],
+                      ["er, sie, es", "hatte", "sie, Sie", "hatten"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Er hatte gestern keine Lust."
+                    ]
+                  },
+                  {
+                    "text": "Perfekt – прошедшее время в речи. Компоненты образования: вспомогательный глагол + Partizip II."
+                  },
+                  {
+                    "text": "Haben как вспомогательный глагол используется в следующих случаях:"
+                  },
+                  {
+                    "text": "1. Переходной глагол."
+                  },
+                  {
+                    "examples": [
+                      "Ich lese das Buch (Präsens). → Ich habe das Buch gelesen (Perfekt).",
+                      "Ich scheibe einen Brief (Präsens). → Ich habe einen Brief geschrieben (Perfekt)."
+                    ]
+                  },
+                  {
+                    "text": "2. Глагол не обозначает движение или изменение состояния."
+                  },
+                  {
+                    "examples": [
+                      "Ich habe gestanden."
+                    ]
+                  },
+                  {
+                    "text": "3. Глагол всегда используется с возвратными глаголами, в независимости от их значения."
+                  },
+                  {
+                    "examples": [
+                      "Ich habe mich gewaschen.",
+                      "Er hat sich verlaufen."
+                    ]
+                  },
+                  {
+                    "text": "Sein как вспомогательный глагол используется в следующих случаях:"
+                  },
+                  {
+                    "text": "1. Глагол обозначает движение или изменение состояния."
+                  },
+                  {
+                    "examples": [
+                      "Ich gehe ins Kino (Präsens). → Ich bin ins Kino gegangen (Perfekt).",
+                      "Er sterbe (Präsens). → Er ist gestorben (Perfekt)."
+                    ]
+                  },
+                  {
+                    "text": "2. Глаголы: werden, bleiben, passieren, gelingen, geschehen."
+                  },
+                  {
+                    "examples": [
+                      "Ich bin zu Hause geblieben.",
+                      "Etwas ist passiert.",
+                      "Mir ist alles gelungen."
+                    ]
+                  },
+                  {
+                    "text": "Модальные глаголы и глаголы sein и haben не используют в этой форме прошедшего времени."
+                  },
+                  {
+                    "text": "Partizip II: В этой форме глагол может получить префикс ge-, поменять корневую гласную и окончание."
+                  },
+                  {
+                    "examples": [
+                      "gehen → gegangen",
+                      "helfen → geholfen",
+                      "steigen → gestiegen"
+                    ]
+                  },
+                  {
+                    "text": "Смешанный глагол будет изменять не только корневую гласную, но корень, притом оканчиваться будет не на –en, а на -t."
+                  },
+                  {
+                    "examples": [
+                      "denken → gedacht",
+                      "bringen → gebracht"
+                    ]
+                  },
+                  {
+                    "text": "Глагол не получает префикс ge- в нижеуказанных случаях:"
+                  },
+                  {
+                    "text": "1. Наличие неотделяемой приставки."
+                  },
+                  {
+                    "examples": [
+                      "Ich habe bekommen.",
+                      "Ich habe erzählt."
+                    ]
+                  },
+                  {
+                    "text": "2. Глагол оканчивается на -ieren."
+                  },
+                  {
+                    "examples": [
+                      "Ich habe studiert.",
+                      "Ich habe telefoniert."
+                    ]
+                  },
+                  {
+                    "text": "В глаголе с отделяемой приставкой, префикс ge- будет стоять после приставки."
+                  },
+                  {
+                    "examples": [
+                      "zumachen → zugemacht",
+                      "einladen → eingeladen"
+                    ]
+                  }
+                ]
+              }, 
+
+              {
+                "title": "Темпоральные предлоги",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Für Jahre:"
+                  },
+                  {
+                    "examples": [
+                      "Er ist 1711 geboren.",
+                      "Ich war 2005 in Österreich. = Ich war im Jahr 2005 in Österreich."
+                    ]
+                  },
+                  {
+                    "text": "Für Jahreszeiten und Monate (Im):"
+                  },
+                  {
+                    "examples": [
+                      "Ich mache den Urlaub im Sommer.",
+                      "Er ist im Dezember geboren."
+                    ]
+                  },
+                  {
+                    "text": "Für Tage, Daten, Tageszeiten (Am):"
+                  },
+                  {
+                    "examples": [
+                      "Am Montag arbeite ich nicht.",
+                      "Am Abend trinke ich keinen Kaffee.",
+                      "Am 26. April habe ich eine Prüfung.",
+                      "Am Wochenende schlafe ich lange.",
+                      "In der Nacht esse ich keine Torte."
+                    ]
+                  },
+                  {
+                    "text": "Für Stunden und Minuten (Um):"
+                  },
+                  {
+                    "examples": [
+                      "Ich stehe jeden Tag um 7 Uhr auf.",
+                      "Um Mitternacht schlafe ich schon.",
+                      "Ich gehe in die Schule von Montag bis Donnerstag um halb neun."
+                    ]
+                  },
+                  {
+                    "text": "Bis:"
+                  },
+                  {
+                    "examples": [
+                      "Ich bleibe bis 14. Oktober.",
+                      "Ich arbeite bis 12 Uhr."
+                    ]
+                  },
+                  {
+                    "text": "Ab:"
+                  },
+                  {
+                    "examples": [
+                      "Ab Montag studiere ich.",
+                      "Ab 3. Oktober beginnen die Schulferien."
+                    ]
+                  },
+                  {
+                    "text": "Von… an:"
+                  },
+                  {
+                    "examples": [
+                      "Von September an gehe ich in die Schule. = Ab September gehe ich in die Schule."
+                    ]
+                  },
+                  {
+                    "text": "Seit:"
+                  },
+                  {
+                    "examples": [
+                      "Seit 2005 wohne ich in Deutschland.",
+                      "Ab Montag rauche ich nicht mehr. ≠ Seit Montag rauche ich nicht mehr."
+                    ]
+                  },
+                  {
+                    "text": "Vor:"
+                  },
+                  {
+                    "examples": [
+                      "Ich kaufe vor der Arbeit ein.",
+                      "Vor fünf Jahren habe ich noch kein Deutsch gesprochen."
+                    ]
+                  },
+                  {
+                    "text": "Nach:"
+                  },
+                  {
+                    "examples": [
+                      "Nach 18 Uhr esse ich nicht.",
+                      "Ich bin vor 5 Jahren nach Deutschland gefahren. Nach ein paar Monaten bin ich nach Hause gefahren."
+                    ]
+                  },
+                  {
+                    "text": "Zwischen:"
+                  },
+                  {
+                    "examples": [
+                      "Zwischen 6 und 7 bin ich zu Hause."
+                    ]
+                  },
+                  {
+                    "text": "In:"
+                  },
+                  {
+                    "examples": [
+                      "In einem Monat reise ich nach Kroatien."
+                    ]
+                  },
+                  {
+                    "text": "Für +Akk.:"
+                  },
+                  {
+                    "examples": [
+                      "Ich habe eine Reise für eine Woche."
+                    ]
+                  },
+                  {
+                    "text": "Von … bis…:"
+                  },
+                  {
+                    "examples": [
+                      "Von Montag bis Freitag arbeite ich."
+                    ]
+                  },
+                  {
+                    "text": "Vom … bis zum…:"
+                  },
+                  {
+                    "examples": [
+                      "Ich bin am Donnerstag vom Morgen bis zum Abend beschäftigt.",
+                      "Vom 16.05. bis zum 24.05. habe ich einen Urlaub."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Локальные предлоги",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Вопросы расположения: Где? → Wo? (Akk.) Откуда? → Woher? (Akk.) Куда? → Wohin? (Dat.)"
+                  },
+                  {
+                    "text": "Wohin?:"
+                  },
+                  {
+                    "table": [
+                      ["Präposition", "Auf Russisch", "Die Bedeutung", "z.B."],
+                      ["In", "В", "Страны с артиклями; Закрытые помещения", "Ich reise in die USA. Ich gehe ins Kino. Gehst du in die Schule?"],
+                      ["Nach", "В", "Направление в страны и города", "Ich fahre nach Deutschland. Er fährt nach Berlin."],
+                      ["Auf", "На", "Значение в горизонтальной поверхности или возвышенности", "Die Blätter fallen auf den Boden. Wir steigen auf den Turm."],
+                      ["An", "На", "Значение в близком расположении вплотную (вертикально); Направления, связанные с водой; Станции, остановки и т.д.", "Ich hänge das Bild an die Wand. Er geht an den Strand. Ich gehe an die Station."],
+                      ["Zu", "К (не «на»)", "Персоны, активности, фирмы, магазины", "Ich gehe zu meiner Freundin. Ich gehe zum Sport."]
+                    ]
+                  },
+                  {
+                    "text": "Wo?:"
+                  },
+                  {
+                    "table": [
+                      ["Präposition", "Auf Russisch", "Die Bedeutung", "z.B."],
+                      ["In", "В", "Страны (любые); Закрытые помещения", "Ich wohne in Deutschland. Ich bin im Kino."],
+                      ["Auf", "На", "Значение в горизонтальной поверхности или возвышенности", "Ein Buch liegt auf den Tisch. Er wartet auf dem Fußballplatz."],
+                      ["An", "У", "Значение в вертикальном расположении; Направления, связанные с водой; Места прибытия: станции, остановки и т.д.", "Das Bild hängt an der Wand. Er ist am Strand."],
+                      ["Bei", "У", "Персоны, активности, фирмы, магазины", "Er ist bei Arzt. Sie ist bei H&M."]
+                    ]
+                  },
+                  {
+                    "text": "Woher?:"
+                  },
+                  {
+                    "table": [
+                      ["Präposition", "Auf Russisch", "Die Bedeutung", "z.B."],
+                      ["Aus", "Из", "Страны, города (любые); Закрытые помещения", "Ich komme aus Deutschland. Wir fahren aus Berlin. Ich gehe aus der Schule."],
+                      ["Von", "С, от", "Все остальное: Значение в горизонтальном и вертикальном расположении; Направления, связанные с водой; Места прибытия: станции, остановки и т.д. Персоны, активности, фирмы, магазины", "Wir fahren von der Station U6 ab. Ich gehe von der Freundin."]
+                    ]
+                  },
+                  {
+                    "text": "Исключения и замечания:"
+                  },
+                  {
+                    "text": "Wo?: In: Der Wald, Der Park, Der Garten"
+                  },
+                  {
+                    "text": "Wohin?: Das Schwimmbad, Die Berge"
+                  },
+                  {
+                    "examples": [
+                      "Ich bin im Meer. (*лежу в море*)",
+                      "Ich bin auf dem Meer. (*лежу на матрасе в море*)"
+                    ]
+                  },
+                  {
+                    "table": [
+                      ["Wohin?", "Wo?", "Woher?"],
+                      ["Ich gehe nach Hause.", "Ich bin zu Hause.", "Ich komme von zu Hause."]
+                    ]
+                  },
+                  {
+                    "text": "Все страны среднего рода, кроме: Die Schweiz; Die Ukraine; Die Türkei; Die Slowakei; Die USA"
+                  }
+                ]
+              },
+              {
+                "title": "Предлоги с двойным управлением",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Wechselpräpositionen – предлоги с двойным управлением."
+                  },
+                  {
+                    "text": "An:"
+                  },
+                  {
+                    "examples": [
+                      "Das Bild hängt an der Wand. (Dat.)",
+                      "Ich klebe das Poster an die Wand. (Akk.)"
+                    ]
+                  },
+                  {
+                    "text": "Auf (горизонтальный контакт):"
+                  },
+                  {
+                    "examples": [
+                      "Das Buch liegt auf den Tisch.",
+                      "Die Katze springt auf dem Tisch."
+                    ]
+                  },
+                  {
+                    "text": "In:"
+                  },
+                  {
+                    "examples": [
+                      "Ich bin im Kino.",
+                      "Ich gehe ins Kino."
+                    ]
+                  },
+                  {
+                    "text": "Vor:"
+                  },
+                  {
+                    "examples": [
+                      "Ich stehe vor der Tür. (движения нет, Dat.)",
+                      "Der Hut fällt vor die Tür. (движение есть, Akk.)"
+                    ]
+                  },
+                  {
+                    "text": "Hinter:"
+                  },
+                  {
+                    "examples": [
+                      "Er steht hinter dem Haus.",
+                      "Er gehe hinter das Haus."
+                    ]
+                  },
+                  {
+                    "text": "Über:"
+                  },
+                  {
+                    "examples": [
+                      "Das Bild hängt über dem Tisch.",
+                      "Ich hänge eine Uhr über den Tisch."
+                    ]
+                  },
+                  {
+                    "text": "Unter:"
+                  },
+                  {
+                    "examples": [
+                      "Es liegt unter dem Bett.",
+                      "Stell das unter das Bett."
+                    ]
+                  },
+                  {
+                    "text": "Neben:"
+                  },
+                  {
+                    "examples": [
+                      "Das Bett steht neben den Tisch.",
+                      "Stell die Lampe neben den Tisch."
+                    ]
+                  },
+                  {
+                    "text": "Zwischen:"
+                  },
+                  {
+                    "examples": [
+                      "Die Katze liegt zwischen dem Tisch und dem Schrank.",
+                      "Stellen Sie bitte den Stuhl zwischen den Tisch und den Schrank."
+                    ]
+                  },
+                  {
+                    "text": "Verben:"
+                  },
+                  {
+                    "table": [
+                      ["Verben", "Dativ", "Akkusativ"],
+                      ["stehen → stand → hat gestanden", "Die Lampe steht auf dem Tisch.", ""],
+                      ["stellen → stellte → hat gestellt", "", "Ich stelle die Lampe auf dem Tisch."],
+                      ["liegen → lag → hat gelegen", "Das Buch liegt auf dem Tisch.", ""],
+                      ["legen → legte → hat gelegt", "", "Er legt das Buch auf den Tisch."],
+                      ["sitzen → saß → hat gesessen", "Ich sitze auf dem Stuhl.", ""],
+                      ["setzen → setzte → hat gesetzt", "", "Ich setze mich auf den Stuhl."],
+                      ["hängen → hing → hat gehangen", "Das Bild hängt an der Wand.", ""],
+                      ["hängen → hängte → hat gehängt", "", "Sie hängen das Bild an die Wand."]
+                    ]
+                  },
+                  {
+                    "text": "Неправильные непереходные глаголы: Нет движения, лишь состояние (+Dativ)."
+                  },
+                  {
+                    "text": "Правильные переходные глаголы: Есть движение (+Akkusativ)."
+                  }
+                ]
+              },
+              {
+                "title": "Предлоги с винительным и дательным падежом",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "+Akkusativ: Запоминаем через акроним: FUDOG (Für, Um, Durch, Ohne, Gegen)."
+                  },
+                  {
+                    "text": "+Dativ: Запоминаем через стишок: Mit, nach, aus, zu, von, bei – Только Dativ прибавляй!"
+                  },
+                  {
+                    "text": "+Akkusativ:"
+                  },
+                  {
+                    "text": "Für:"
+                  },
+                  {
+                    "examples": [
+                      "Ich habe ein Geschenk für dich.",
+                      "Er arbeitet für Geld."
+                    ]
+                  },
+                  {
+                    "text": "Um:"
+                  },
+                  {
+                    "examples": [
+                      "Er fährt um das Haus.",
+                      "Sie steht um die Ecke."
+                    ]
+                  },
+                  {
+                    "text": "Durch:"
+                  },
+                  {
+                    "examples": [
+                      "Sie läuft durch die Stadt.",
+                      "Er geht durch die Tür."
+                    ]
+                  },
+                  {
+                    "text": "Ohne:"
+                  },
+                  {
+                    "examples": [
+                      "Ohne Arbeit hat er kein Geld."
+                    ]
+                  },
+                  {
+                    "text": "Gegen:"
+                  },
+                  {
+                    "examples": [
+                      "Ich bin gegen Rauchen.",
+                      "Das Auto ist gegen die Wand gestoßen."
+                    ]
+                  },
+                  {
+                    "text": "+Dativ:"
+                  },
+                  {
+                    "text": "Mit:"
+                  },
+                  {
+                    "examples": [
+                      "Ich gehe mit dir zusammen.",
+                      "Ich schreibe mit dem Kuli.",
+                      "Ich fahre mit dem Bus."
+                    ]
+                  },
+                  {
+                    "text": "Nach:"
+                  },
+                  {
+                    "examples": [
+                      "Ich fahre nach Deutschland.",
+                      "Er fährt nach Berlin.",
+                      "Nach der Schule gehe ich ins Kino.",
+                      "Er ist müde nach der Arbeit."
+                    ]
+                  },
+                  {
+                    "text": "Aus:"
+                  },
+                  {
+                    "examples": [
+                      "Der Tisch ist aus Holz.",
+                      "Ich komme aus der Schule."
+                    ]
+                  },
+                  {
+                    "text": "Zu:"
+                  },
+                  {
+                    "examples": [
+                      "Wie komme ich zu Bahnhof?",
+                      "Ich gehe zum Arzt.",
+                      "Zum Frühstück trinke ich Kaffee."
+                    ]
+                  },
+                  {
+                    "text": "Von:"
+                  },
+                  {
+                    "examples": [
+                      "Von Montag bis Freitag arbeite ich.",
+                      "Ich gehe vom Arzt.",
+                      "Das ist Freund von meiner Schwester."
+                    ]
+                  },
+                  {
+                    "text": "Bei:"
+                  },
+                  {
+                    "examples": [
+                      "Ich arbeite bei Apple.",
+                      "Ich bin beim (bei dem) Arzt.",
+                      "Dachau liegt bei München."
+                    ]
+                  },
+                  {
+                    "text": "Seit:"
+                  },
+                  {
+                    "examples": [
+                      "Seit zwei Jahren wohne ich in Deutschland."
+                    ]
+                  },
+                  {
+                    "text": "Предлоги с двойным управлением (+Akkusativ или +Dativ):"
+                  },
+                  {
+                    "table": [
+                      ["+Akkusativ", "+Dativ"],
+                      ["Bis (до)", "Aus (из чего-то, из-за чего-то)"],
+                      ["Durch (по, через)", "Bei (локальное значение – под, у)"],
+                      ["Für (для кого-то)", "Mit (с чем-то, с помощью чего-то)"],
+                      ["Gegen (против, обо что-то)", "Nach (темпоральное значение – после)"],
+                      ["Ohne (без чего-либо)", "Nach (локальное значение – в)"],
+                      ["Um (вокруг чего-то)", "Von (от (с) чего-то, кого-то)"],
+                      ["", "Zu (локальное значение – к)"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Имена прилагательные",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Склонение имен прилагательных"
+                  },
+                  {
+                    "text": "Слабое склонение: Определенный артикль; Указательное местоимение; Местоимения alle, beide."
+                  },
+                  {
+                    "table": [
+                      ["Kasus", "Maskulinum", "Femininum", "Neutrum", "Plural"],
+                      ["Nominativ", "Der große Mann", "Die schöne Frau", "Das kleine Kind", "Die guten Kinder"],
+                      ["Genetiv", "Des großen Mann", "Der schönen Frau", "Des kleinen Kind", "Der guten Kinder"],
+                      ["Dativ", "Dem großen Mann", "Der schönen Frau", "Dem kleinen Kind", "Den guten Kindern"],
+                      ["Akkusativ", "Den großen Mann", "Die schöne Frau", "Das kleine Kind", "Die guten Kinder"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Das große Kind hat sich verletzt.",
+                      "Die kleinen Kinder aus dem neuen Haus können uns helfen.",
+                      "Diese kleinen Kinder haben uns geholfen.",
+                      "Alle kleinen Kinder sind sehr süß."
+                    ]
+                  },
+                  {
+                    "text": "Смешанное склонение: Неопределенный артикль; Притяжательное местоимение; Местоимение kein."
+                  },
+                  {
+                    "table": [
+                      ["Kasus", "Maskulinum", "Femininum", "Neutrum", "Plural"],
+                      ["Nominativ", "Ein großer Mann", "Eine schöne Frau", "Ein kleines Kind", "meine/keine guten Kinder"],
+                      ["Genetiv", "Eines großen Mann", "Einer schönen Frau", "Eines kleinen Kind", "meiner/keiner guten Kinder"],
+                      ["Dativ", "Einem großen Mann", "Einer schönen Frau", "Einem kleinen Kind", "meinen/keinen guten Kindern"],
+                      ["Akkusativ", "Einen großen Mann", "Eine schöne Frau", "Ein kleines Kind", "meine/keine guten Kinder"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Ein großes Kind hat sich verletzt.",
+                      "Ihre kleinen Kinder aus ihrem neuen Haus können uns helfen.",
+                      "Ich hatte keine großen Erwartungen, aber alles ist gut verlaufen."
+                    ]
+                  },
+                  {
+                    "text": "Сильное склонение: Нулевой артикль; Имя числительное; Местоимение viele."
+                  },
+                  {
+                    "table": [
+                      ["Kasus", "Maskulinum", "Femininum", "Neutrum", "Plural"],
+                      ["Nominativ", "großer Mann", "schöne Frau", "kleines Kind", "gute Kinder"],
+                      ["Genetiv", "großen Mannes", "schöner Frau", "kleinen Kindes", "guter Kinder"],
+                      ["Dativ", "großem Mann", "schöner Frau", "kleinem Kind", "guten Kindern"],
+                      ["Akkusativ", "großen Mann", "schöne Frau", "kleines Kind", "gute Kinder"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Kleine Kinder mögen schönes Wetter.",
+                      "Viele kleine Kinder wollen helfen.",
+                      "Drei kleine Kinder haben uns geholfen."
+                    ]
+                  },
+                  {
+                    "text": "Степени имен прилагательных: Positiv, Komparativ, Superlativ"
+                  },
+                  {
+                    "text": "Komparativ:"
+                  },
+                  {
+                    "text": "В односложных прилагательных корневая гласная меняется на гласную с умлаутом: jung → jünger; oft → öfter; alt → älter."
+                  },
+                  {
+                    "text": "В прилагательных, оканчивающих на –el, -er, -en гласная на конце пропадает: dunkel → dunkler; sauer → saurer; trocken → trockner."
+                  },
+                  {
+                    "examples": [
+                      "Es ist jünger als ich.",
+                      "Mein Auto ist schneller als dein Auto.",
+                      "Mein Auto ist genauso schnell wie deins.",
+                      "Mein Haus ist gleich so schön wie seins."
+                    ]
+                  },
+                  {
+                    "text": "Superlativ:"
+                  },
+                  {
+                    "text": "schnell → am schnellsten;"
+                  },
+                  {
+                    "text": "В односложных прилагательных корневая гласная меняется на гласную с умлаутом: jung → am jüngsten."
+                  },
+                  {
+                    "text": "В прилагательных, оканчивающих на –s, -sz, -st, -t, -tz, -z, -x добавляется гласная -e: oft → am öftesten; alt → am ältesten."
+                  },
+                  {
+                    "text": "В прилагательных, оканчивающих на –el, -er, -en гласная на конце не пропадает: dunkel → am dunkelsten; sauer → am sauersten; trocken → am trockensten."
+                  },
+                  {
+                    "text": "Особые случаи: Формы особенных прилагательных в различных степенях:"
+                  },
+                  {
+                    "table": [
+                      ["Positiv", "Komparativ", "Superlativ"],
+                      ["Gut", "besser", "am besten"],
+                      ["viel", "mehr", "am meisten"],
+                      ["gern", "lieber", "am liebsten"],
+                      ["Bald", "eher", "am ehesten"],
+                      ["Nah", "näher", "am nächsten"],
+                      ["Hoch", "höher", "am höchsten"]
+                    ]
+                  },
+                  {
+                    "text": "Исключения:"
+                  },
+                  {
+                    "table": [
+                      ["Positiv", "Komparativ", "Superlativ"],
+                      ["Klar", "klarer", "am klarsten"],
+                      ["Stolz", "stolzer", "am stolzesten"],
+                      ["Laut", "lauter", "am lautesten"],
+                      ["Faul", "fauler", "am faulsten"]
+                    ]
+                  },
+                  {
+                    "text": "Склонение степеней имен прилагательных:"
+                  },
+                  {
+                    "examples": [
+                      "Das ist ein hohes [hoch] Haus.",
+                      "Ich mit dem schnellsten Auto (Dat.).",
+                      "Ein schnelles Auto. → Ein schnelleres Auto. → Das schnellste Auto.",
+                      "Ein hohes Haus. → Ein höheres Haus. → Das höchste Haus."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Повелительное наклонение",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Используется только с местоимениями du, wir, ihr, Sie."
+                  },
+                  {
+                    "text": "Du:"
+                  },
+                  {
+                    "examples": [
+                      "Du machst → Mach!",
+                      "Du machst die Hausaufgaben. → Mach die Hausaufgaben!",
+                      "Du gehst mit mir. → Geh mit mir!"
+                    ]
+                  },
+                  {
+                    "text": "Ihr:"
+                  },
+                  {
+                    "examples": [
+                      "Ihr macht → Macht!",
+                      "Ihr sprecht → Sprecht!"
+                    ]
+                  },
+                  {
+                    "text": "Sie, wir:"
+                  },
+                  {
+                    "examples": [
+                      "Sie sagen mir etwas. → Sagen Sie mir etwas!",
+                      "Wir lernen Deutsch. → Lernen wir Deutsch!"
+                    ]
+                  },
+                  {
+                    "text": "Вариации императива:"
+                  },
+                  {
+                    "examples": [
+                      "Sagen Sie mir bitte.",
+                      "Sag mal!",
+                      "Komm mal mir!",
+                      "Du isst → Iss!",
+                      "Du liest → Lies!",
+                      "Du schläfst → Schlaf!",
+                      "Du fährst → Fahr!",
+                      "Mitbringen → Bring mit! → Bringt mit! → Bringen Sie mit!"
+                    ]
+                  },
+                  {
+                    "text": "Спряжение глаголов haben и sein:"
+                  },
+                  {
+                    "table": [
+                      ["", "wir", "haben, seien"],
+                      ["Du", "hab, sei", "ihr", "habt, seid"],
+                      ["", "Sie", "haben, seien"]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Haben Sie bitte Geduld!",
+                      "Seien Sie bitte leise!"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Родительный падеж",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Genetiv:"
+                  },
+                  {
+                    "table": [
+                      ["Kasus", "Maskulinum", "Femininum", "Neutrum", "Plural"],
+                      ["Nominativ", "Ein/der Vater", "Eine/die Frau", "Ein/das Buch", "Die Leute"],
+                      ["Genetiv", "Eines/des Vaters", "Einer/der Frau", "Eines/des Buches", "Der (meiner) Leute"]
+                    ]
+                  },
+                  {
+                    "text": "Имена нарицательные: Добавляется –es: Слово оканчивается на -s, -sz, -x, -z; Односложное слово; во всех иных случаях добавляется –s."
+                  },
+                  {
+                    "examples": [
+                      "der Einfluss → des Einflusses",
+                      "das Gras → des Grases",
+                      "das Jahr → des Jahres"
+                    ]
+                  },
+                  {
+                    "text": "Согласование по падежу:"
+                  },
+                  {
+                    "examples": [
+                      "Das Buch meines Kindes",
+                      "Das Auto jenes Mannes",
+                      "Das Haus welcher Frau ist das?",
+                      "Die Mütze keines Kindes",
+                      "Das Merkmal einige Leute"
+                    ]
+                  },
+                  {
+                    "text": "Имена собственные: Добавляется апостроф: Слово оканчивается на -s, -sz, -x, -z; во всех иных случаях добавляется –s."
+                  },
+                  {
+                    "examples": [
+                      "Annas Fahrrad",
+                      "Hans‘ Auto",
+                      "Herrn Wagners Büro (n-Deklination)",
+                      "Deutschlands Norden",
+                      "Der Norden Deutschlands",
+                      "Die Hauptstadt der Schweiz (die Schweiz)",
+                      "Schweizer Uhren"
+                    ]
+                  },
+                  {
+                    "text": "Замена дательным падежом:"
+                  },
+                  {
+                    "examples": [
+                      "Das Fahrrad von meinem Bruder → Das Fahrrad meines Bruders",
+                      "Das Bild von meiner Schwester → Das Bild meiner Schwester"
+                    ]
+                  },
+                  {
+                    "text": "Предлоги:"
+                  },
+                  {
+                    "text": "Außerhalb (вне, за пределами); Innerhalb (внутри, в течение времени); Während (во время); Aufgrund (по причине); Infolge (вследствие); Wegen (из-за); Trotz (вопреки, несмотря на); Anstatt (вместо)."
+                  },
+                  {
+                    "examples": [
+                      "Trotz der Verspätung",
+                      "Außerhalb Europas",
+                      "Während des Konzerts",
+                      "Wegen des Gewitters"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Слабое склонение имени существительного",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "n-Deklination:"
+                  },
+                  {
+                    "text": "Существительные мужского пола с окончанием –е, обозначающие живых существ: Der Kunde, der Alte, der Löwe."
+                  },
+                  {
+                    "text": "Национальности мужского пола с окончанием –е: Der Russe, der Türke, der Franzose, der Deutsche."
+                  },
+                  {
+                    "text": "Абстрактные существительные мужского рода с окончанием –е: Der Name, der Buchstabe, der Gedanke (получают –s в склонении Genetiv, т.е. des Namens, des Buchstabens, der Gedankens)."
+                  },
+                  {
+                    "text": "Односложные имена существительные мужского рода: Der Mensch, der Bär, der Herr, der Graf, der Prinz, der Held."
+                  },
+                  {
+                    "text": "Имена существительные с суффиксами -and-, -ant-, -ent-, -et-, -oge-, -at-, -ist-, -nom-, -soph-, -graf-, -loge-: Der Student, der Laborant, der Poet, der Diplomat, der Patriot, der Polizist, der Agronom, der Philosoph, der Fotograf, der Philologe, der Automat."
+                  },
+                  {
+                    "text": "Исключение: Das Herz."
+                  }
+                ]
+              },
+              {
+                "title": "Глаголы с предлогами и управление глаголов",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "table": [
+                      ["Dativ", "Akkusativ"],
+                      ["arbeiten an — работать на чем-то", "denken an – думать о ком-то или о чем-то"],
+                      ["träumen von — мечтать о", "sich interessieren für – интересоваться чем-то"],
+                      ["fragen nach — спрашивать о", "sich ärgern über - злиться на кого-то"],
+                      ["sprechen mit — говорить с", "sprechen über - говорить о"],
+                      ["teilnehmen an — участвовать в", "sich kümmern um - заботиться о"],
+                      ["abhängen von — зависеть от", "glauben an — верить в кого-то, что-то"],
+                      ["aufhören mit — прекращать", "sorgen für — заботиться о"],
+                      ["sich beschäftigen mit — заниматься чем-л.", "verzichten auf — отказываться от"],
+                      ["zweifeln an — сомневаться в", "danken für — благодарить за"],
+                      ["gehören zu — быть частью чего-то, кого-то", ""],
+                      ["leiden an — страдать от чего-либо", ""]
+                    ]
+                  },
+                  {
+                    "examples": [
+                      "Auf wen hoffst du?",
+                      "Mit wem sprichst du?",
+                      "Mit jemandem über etwas sprechen.",
+                      "Ich träume von Urlaub.",
+                      "Ich denke auf meine Zukunft."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Präpositionalpronomen",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Ich spreche über das. → Ich spreche darüber."
+                  },
+                  {
+                    "text": "da+von → davon (об этом); wo+von → wovon (о чем); da+mit → damit (с этим); wo+mit → womit (с чем); da+bei → dabei (при этом); wo+bei → wobei (при чем); da+r+auf → darauf (на этом); wo+r+auf → worauf (на чем, на что); da+r+in → darin (в этом); wo+r+in → worin (в чем); da+r+aus → daraus (из этого); wo+r+aus → woraus (из чего)."
+                  },
+                  {
+                    "examples": [
+                      "Da steht ein Stuhl, ich sitze darauf.",
+                      "Habe ich dir schon von meinen letzten Reisen erzählt? – Ja, du hast mir davon erzählt.",
+                      "Woran denkst du?",
+                      "Worauf hoffst du?",
+                      "Er ist gestern zu spät nach Hause gekommen und hat keine Hausaufgaben gemacht. Darüber hat mir deine Schwester gesagt.",
+                      "Er hat darauf gehofft, dass sie bald kommt.",
+                      "Ich ärgere mich darüber, dass sie zu laut sind (ärgern sich)."
+                    ]
+                  },
+                  {
+                    "text": "Auf jemanden/etwas hören ≠ aufhören; Jemanden nach etwas fragen ≠ nachfragen."
+                  }
+                ]
+              },
+              {
+                "title": "Сослагательное наклонение",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Konjunktiv II в настоящем времени:"
+                  },
+                  {
+                    "text": "Образование с формой Konjunktiv II базовых глаголов: Verb → Präteritum → = ̈ + e."
+                  },
+                  {
+                    "examples": [
+                      "haben → hatte → hätte",
+                      "sein → war → wäre",
+                      "müssen → musste → müsste",
+                      "mögen → mochte → möchte",
+                      "können → konnte → könnte",
+                      "Wenn ich mehr Geld hätte, dann könnte ich viel reisen."
+                    ]
+                  },
+                  {
+                    "text": "Образование через альтернативную структуру: Würden + Infinitiv."
+                  },
+                  {
+                    "examples": [
+                      "Ich gehe → Ich würde gehen",
+                      "Ich esse → Ich würde essen",
+                      "Er würde sich ein Auto kaufen.",
+                      "Sie würden viel reisen."
+                    ]
+                  },
+                  {
+                    "text": "Спряжение глагола würden:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "würde", "wir", "würden"],
+                      ["du", "würdest", "ihr", "würdet"],
+                      ["er, sie, es", "würde", "sie, Sie", "würden"]
+                    ]
+                  },
+                  {
+                    "text": "Konjunktiv II в прошедшем времени:"
+                  },
+                  {
+                    "examples": [
+                      "Sie haben die Hausaugaben gemacht. → Sie hätten die Hausaugaben gemacht.",
+                      "Er ist ins Kino gegangen. → Er wäre ins Kino gegangen."
+                    ]
+                  },
+                  {
+                    "text": "Условия применения Konjunktiv II:"
+                  },
+                  {
+                    "text": "Желания, вежливость в просьбах; Нереальные условия; Советы; Выражение предложений."
+                  },
+                  {
+                    "examples": [
+                      "Ich hätte gern einen Kaffee.",
+                      "Könnten Sie mir bitte helfen?",
+                      "Wenn ich fliegen könnte, wäre es super.",
+                      "Du solltest mehr studieren.",
+                      "Wir könnten uns heute gern treffen."
+                    ]
+                  },
+                  {
+                    "text": "Для построения предложения часто используется союз „wenn“."
+                  },
+                  {
+                    "examples": [
+                      "Wenn ich viel Geld hätte, würde ich viel reisen."
+                    ]
+                  },
+                  {
+                    "text": "Но бывает, что союз „wenn“ опускается, но определенный порядок глаголов сохраняется:"
+                  },
+                  {
+                    "examples": [
+                      "Hätte er mehr Geld, würde er viel reisen."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Относительные придаточные предложения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Relativsätzen und Relativpronomen:"
+                  },
+                  {
+                    "examples": [
+                      "Das ist die Frau, die mit mir studiert.",
+                      "Das sind Kinder, die hier wohnen.",
+                      "Das ist der Mann, den ich kenne."
+                    ]
+                  },
+                  {
+                    "text": "Исключения:"
+                  },
+                  {
+                    "examples": [
+                      "Das sind die Leute, denen er Geld schuldet.",
+                      "Das ist der Autor, dessen Buch ich lese.",
+                      "Das ist das Kind, dessen Eltern ich kenne.",
+                      "Ich sehe die Frau, deren Auto da steht.",
+                      "Das sind unsere Freunde, deren Kinder ich gesehen habe."
+                    ]
+                  },
+                  {
+                    "table": [
+                      ["Kasus", "Maskulinum", "Femininum", "Neutrum", "Plural"],
+                      ["Nominativ", "der", "die", "das", "die"],
+                      ["Genetiv", "dessen", "deren", "dessen", "deren"],
+                      ["Dativ", "dem", "der", "dem", "denen"],
+                      ["Akkusativ", "den", "die", "das", "die"]
+                    ]
+                  },
+                  {
+                    "text": "Глагол находится в придаточном предложении строго в конце."
+                  },
+                  {
+                    "text": "Относительные придаточные слова зависят не от рода предмета принадлежности, а от рода самого владельца."
+                  },
+                  {
+                    "examples": [
+                      "Das ist die Frau, mit der wir gesprochen haben."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Предпрошедшее время",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Plusquamperfekt: Hatten/waren + Partizip II."
+                  },
+                  {
+                    "examples": [
+                      "Als ich gekommen bin, war sie schon weggegangen.",
+                      "Ich hatte das Buch gelesen, danach ich habe Tee getrunken.",
+                      "Als ich nach Hause gekommen bin, hatte er den Anruf beendet.",
+                      "Nachdem ich nach Hause gekommen war, hat er den Anruf beendet.",
+                      "Bevor ich nach Hause gekommen bin, hatte er den Anruf beendet.",
+                      "Bevor ich nach Hause gekommen war, hat er den Anruf beendet."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Инфинитивные предложения",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Конструкция zu + Infinitiv:"
+                  },
+                  {
+                    "examples": [
+                      "Ich muss lernen. – Я должен учиться.",
+                      "Ich kann schwimmen. – Я умею плавать.",
+                      "Ich fange an, zu lernen.",
+                      "Es ist schön, hier zu bleiben.",
+                      "Sie sind bereit, zu gehen.",
+                      "Es ist gut, die Familie anzurufen.",
+                      "Es ist gut, viel Geld zu bekommen."
+                    ]
+                  },
+                  {
+                    "text": "Модальные глаголы: müssen, sollen, können, dürfen, möchten, wollen и mögen."
+                  },
+                  {
+                    "examples": [
+                      "Ich möchte Tee trinken.",
+                      "Ich darf hier parken."
+                    ]
+                  },
+                  {
+                    "text": "Глаголы движения: gehen (идти), kommen (приходить), fahren (ехать), laufen (бежать)."
+                  },
+                  {
+                    "examples": [
+                      "Ich gehe einkaufen.",
+                      "Ich komme Tim besuchen."
+                    ]
+                  },
+                  {
+                    "text": "Глаголы восприятия: sehen (видеть), hören (слышать), spüren (ощущать), fühlen (чувствовать)."
+                  },
+                  {
+                    "examples": [
+                      "Ich sehe den Bus kommen.",
+                      "Ich höre Kinder schreien."
+                    ]
+                  },
+                  {
+                    "text": "Глаголы-исключения: lassen (оставлять), bleiben (оставаться), finden (находить), haben (иметь) + lernen, lehren, helfen."
+                  },
+                  {
+                    "examples": [
+                      "Ich lasse meine Haare schneiden.",
+                      "Ich bleibe hier stehen.",
+                      "Ich finde ihn von der Tür stehen.",
+                      "Ich habe meine Tasse auf dem Tisch stehen.",
+                      "Es ist schlecht, nicht schwimmen zu können.",
+                      "Ich finde es toll einkaufen zu gehen.",
+                      "Ich hasse, Popmusik zu hören."
+                    ]
+                  },
+                  {
+                    "text": "Haben zu / sein zu – долженствовать:"
+                  },
+                  {
+                    "examples": [
+                      "Der Müll hat zu verschwinden. – Aktiv.",
+                      "Das Buch ist nicht zu verstehen. – Passiv."
+                    ]
+                  },
+                  {
+                    "text": "Scheinen zu – казаться:"
+                  },
+                  {
+                    "examples": [
+                      "Mein Plan scheint zu funktionieren."
+                    ]
+                  },
+                  {
+                    "text": "Brauchen zu – стоит:"
+                  },
+                  {
+                    "examples": [
+                      "Du brauchst keine Angst zu haben.",
+                      "Du brauchst nicht deine Hausaufgaben zu machen."
+                    ]
+                  },
+                  {
+                    "text": "Pflegen zu – делать регулярно, привыкнуть:"
+                  },
+                  {
+                    "examples": [
+                      "Sie pflegt Sport zu machen."
+                    ]
+                  },
+                  {
+                    "text": "Wissen zu – мочь:"
+                  },
+                  {
+                    "examples": [
+                      "Ich weiß das zu schätzen."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Коннекторы",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Используются в сложных предложениях с одинаковым подлежащим:"
+                  },
+                  {
+                    "text": "um...zu — для того чтобы; (an)statt... zu — вместо того чтобы; ohne... zu — без того чтобы... (не делая чего-то)."
+                  },
+                  {
+                    "text": "Используются в предложениях с разными подлежащими в главном и придаточном предложениях:"
+                  },
+                  {
+                    "text": "damit — таким образом, чтобы... (аналог 'um... zu'); (an)statt zu — вместо того чтобы... (аналог '(an)statt... zu'); ohne... dass — без того чтобы... (аналог 'ohne... zu')."
+                  }
+                ]
+              },
+              {
+                "title": "Непрямые вопросы",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "W-Fragen:"
+                  },
+                  {
+                    "examples": [
+                      "Ich möchte wissen, wie er heißt.",
+                      "Ich möchte fragen, wo der Bahnhof ist.",
+                      "Wissen Sie, wie ich zu dem (zum) Supermarkt komme?"
+                    ]
+                  },
+                  {
+                    "text": "„Ob“:"
+                  },
+                  {
+                    "examples": [
+                      "Er möchte wissen, ob sie morgen arbeitet.",
+                      "Ich habe keine Ahnung, ob ich morgen komme."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Будущее время",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Futur I: Werden + Infinitiv."
+                  },
+                  {
+                    "examples": [
+                      "Ich werde zum Arzt gehen."
+                    ]
+                  },
+                  {
+                    "text": "Спряжение глагола werden:"
+                  },
+                  {
+                    "table": [
+                      ["ich", "werde", "wir", "werden"],
+                      ["du", "wirst", "ihr", "werdet"],
+                      ["er, sie, es", "wird", "sie, Sie", "werden"]
+                    ]
+                  },
+                  {
+                    "text": "werden – становиться (основные формы: werden – wurde – geworden); werden – вспомогательный глагол (основные формы: werden – wurde – worden)."
+                  },
+                  {
+                    "examples": [
+                      "Ich werde groß. – Я становлюсь большим.",
+                      "Ich werde alt. – Я становлюсь старым.",
+                      "Ich werde klug. – Я становлюсь умным.",
+                      "Ich werde groß sein. – Я буду большим.",
+                      "Ich werde alt sein. – Я буду старым.",
+                      "Ich werde klug sein. – Я буду умным."
+                    ]
+                  },
+                  {
+                    "text": "При наличии индикатора времени, предложение строится через настоящее время. Показатели времени без предлога стоят не в Dativ, а в Akkusativ."
+                  },
+                  {
+                    "examples": [
+                      "Nächsten Monat kommt er nach Deutschland."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Passiv",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Vorgangspassiv (werden-passiv):"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto wird repariert.",
+                      "Die Eltern schenken dem Kind ein Buch. → Ein Buch wird dem Kind geschenkt.",
+                      "Ich spreche mit ihr. → Mit ihr wird gesprochen. = Es wird mit ihr gesprochen.",
+                      "Man liest ein Buch. → Es wird ein Buch gelesen. = Ein Buch wird gelesen."
+                    ]
+                  },
+                  {
+                    "text": "Von (организация или человек):"
+                  },
+                  {
+                    "examples": [
+                      "Wir werden von einem Arzt beraten.",
+                      "Sie werden von der Polizei durchsucht."
+                    ]
+                  },
+                  {
+                    "text": "Durch (посредник или неодушевленный предмет):"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus wird durch Erdbeben zerstört.",
+                      "Das Paket wird durch einen Boten gestellt."
+                    ]
+                  },
+                  {
+                    "text": "Mit (инструмент):"
+                  },
+                  {
+                    "examples": [
+                      "Seine Haare werden mit einer Schere geschnitten.",
+                      "Wir werden von unserem Freund mit dem Auto nach Hause gebracht."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto muss repariert werden."
+                    ]
+                  },
+                  {
+                    "text": "Präteritum:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto wurde repariert."
+                    ]
+                  },
+                  {
+                    "text": "Perfekt:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto ist repariert worden."
+                    ]
+                  },
+                  {
+                    "text": "Futur I:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto wird repariert werden."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben+Präteritum:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto musste repariert werden."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben+Perfekt:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto hat repariert werden müssen."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben+Futur I:"
+                  },
+                  {
+                    "examples": [
+                      "Das Auto wird repariert werden müssen."
+                    ]
+                  },
+                  {
+                    "text": "Zustandspassiv (sein-passiv):"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus ist gebaut.",
+                      "Das Auto ist repariert."
+                    ]
+                  },
+                  {
+                    "text": "Präteritum:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus war gebaut."
+                    ]
+                  },
+                  {
+                    "text": "Perfekt:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus ist gebaut gewesen."
+                    ]
+                  },
+                  {
+                    "text": "Futur I:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus wird gebaut sein."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus muss gebaut sein."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben+Präteritum:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus musste gebaut sein."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben+Perfekt:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus hat gebaut sein müssen."
+                    ]
+                  },
+                  {
+                    "text": "Modalverben+Futur I:"
+                  },
+                  {
+                    "examples": [
+                      "Das Haus wird gebaut sein müssen."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Имена числительные",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Kardinalzahlen:"
+                  },
+                  {
+                    "text": "1-3: eins, zwei, drei; 4-20: vier, fünf… zwanzig; 21-…: einundzwanzig, zweiundzwanzig."
+                  },
+                  {
+                    "text": "Ordinalzahlen:"
+                  },
+                  {
+                    "text": "1-19: erste, zweite, dritte,…, siebte, achte,…, neunzehn; 20-…: zwanzigste, einundzwanzigste."
+                  },
+                  {
+                    "text": "Daten:"
+                  },
+                  {
+                    "examples": [
+                      "Der wievielte Tag ist heute?",
+                      "Welcher Tag ist heute?",
+                      "Am 5. Mai = Am fünfte Mai.",
+                      "Am 16. Oktober = Am sechzehnten Oktober."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Порядок слов в предложении",
+                "type": "mixed",
+                "sections": [
+                  {
+                    "text": "Предложения с Akkusativ- и Dativ-объектами:"
+                  },
+                  {
+                    "examples": [
+                      "Ich schenke dem Freund ein Buch. (существительноеDativ + существительноеAkkusativ)",
+                      "Ich schenke es ihm. (местоимениеAkkusativ + местоимениеDativ)",
+                      "Ich schenke es den Freund. (местоимение + существительное)",
+                      "Ich schenke ihm das Buch."
+                    ]
+                  },
+                  {
+                    "text": "TeKaMoLo: Temporal → Kausal → Modal → Lokal (Время → Причина → Образ действия → Место)."
+                  },
+                  {
+                    "examples": [
+                      "Ich fahre heute wegen der Prüfung mit dem Bus in die Uni.",
+                      "Sie sind vor einem Monat wegen des schlechten Wetters mit dem Flugzeug nach Spanien geflogen.",
+                      "Heute bleibe ich den ganzen Tag zu Hause.",
+                      "Er ist vor zwei Monaten im Oktober an einem Montag um 2 Uhr angekommen.",
+                      "Sie fahren zu ihren Verwandten aufs Land im Süden von Deutschland."
+                    ]
+                  }
+                ]
+              }
+            
+
+
+              
+          
+          
+
+
+      ]
+      
+
+
+
+
+  

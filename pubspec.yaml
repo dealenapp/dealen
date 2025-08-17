@@ -1,0 +1,60 @@
+name: dealen
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+  flutter_tts: ^4.2.2
+  intl: ^0.20.2
+  firebase_core: ^3.13.1
+  cloud_firestore: ^5.6.8
+  path_provider: ^2.0.0
+  open_file: ^3.2.0
+  azlistview: ^2.0.0
+  permission_handler: ^12.0.0+1
+  provider: ^6.1.5
+  pie_chart: ^5.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/dealen_picture.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/logo/
+    - lib/data/articles.json
+    - lib/data/flashcards.json
+    - lib/data/alen2025.json
+    - lib/data/a1c1.json
+    - lib/data/rekverb.json
+    - lib/data/engwords.json
+    - lib/data/enggram.json
+    - lib/data/degram.json
+
+  fonts:
+    - family: RobotoCondensed
+      fonts:
+        - asset: lib/fonts/Roboto_Condensed-Light.ttf
+        - asset: lib/fonts/Roboto_Condensed-Italic.ttf
+          style: italic
+        - asset: lib/fonts/Roboto_Condensed-Bold.ttf
+          weight: 700
